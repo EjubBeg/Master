@@ -1,0 +1,17 @@
+\babel@toc {english}{}\relax 
+\contentsline {table}{\numberline {\small 1\normalsize }{\ignorespaces Network Configuration and Roles of Testbed Components}}{12}{table.caption.13}%
+\contentsline {table}{\numberline {\small 2\normalsize }{\ignorespaces Key performance metrics for PLC systems and their measurement methods.}}{16}{table.caption.15}%
+\contentsline {table}{\numberline {\small 3\normalsize }{\ignorespaces Summary of Performance Log Attributes and Descriptions}}{22}{table.caption.16}%
+\contentsline {table}{\numberline {\small 4\normalsize }{\ignorespaces Overview of the Attack Chain with Multiple Techniques}}{24}{table.caption.17}%
+\contentsline {table}{\numberline {\small 5\normalsize }{\ignorespaces Execution Time Statistics Across Different Scenarios}}{27}{table.caption.19}%
+\contentsline {table}{\numberline {\small 6\normalsize }{\ignorespaces Delay Time Statistics Across Different Scenarios}}{29}{table.caption.21}%
+\contentsline {table}{\numberline {\small 7\normalsize }{\ignorespaces CPU Usage Statistics Across Different Scenarios}}{34}{table.caption.26}%
+\contentsline {table}{\numberline {\small 8\normalsize }{\ignorespaces Confusion Matrix for Unbalanced Dataset}}{38}{table.caption.29}%
+\contentsline {table}{\numberline {\small 9\normalsize }{\ignorespaces Performance Metrics for Unbalanced Dataset}}{38}{table.caption.30}%
+\contentsline {table}{\numberline {\small 10\normalsize }{\ignorespaces Balanced Dataset Confusion Matrix Results for Each Model}}{39}{table.caption.31}%
+\contentsline {table}{\numberline {\small 11\normalsize }{\ignorespaces Balanced Dataset Performance Metrics}}{39}{table.caption.32}%
+\contentsline {table}{\numberline {\small 12\normalsize }{\ignorespaces Performance-Based Dataset Confusion Matrix Results (After Feature Exclusion)}}{40}{table.caption.35}%
+\contentsline {table}{\numberline {\small 13\normalsize }{\ignorespaces MITRE ATT\&CK Techniques Manifestation in Logs}}{44}{table.caption.36}%
+\contentsline {table}{\numberline {\small 14\normalsize }{\ignorespaces Log Counts for MITRE ATT\&CK Techniques excluding Network Logs}}{45}{table.caption.37}%
+\contentsline {table}{\numberline {\small 15\normalsize }{\ignorespaces Performance Impact of MITRE Techniques on CPU and Memory Usage}}{45}{table.caption.38}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

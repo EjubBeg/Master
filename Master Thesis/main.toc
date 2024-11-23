@@ -1,0 +1,62 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Realted Work}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Research Questions}{4}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Methods}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Testbed}{6}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Requirements}{6}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Testbed Components and Architecture}{7}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Essential Testbed Components}{8}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Testbed Architecture and Network Topology}{9}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Application Overview}{9}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}PLC Programming and Configuration}{14}{subsection.2.2.6}%
+\contentsline {section}{\numberline {2.3}Methodology for Research Question 1: Impact of Data Logging on PLC Performance}{14}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Intention}{14}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Performance Metrics}{15}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Datalogger Configuration}{16}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Analysis Approach}{17}{subsection.2.3.4}%
+\contentsline {section}{\numberline {2.4}Methodology for Research Question 2: Evaluating the Quality of Machine Learning Models trained on the collected Data}{17}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Intention}{17}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Data logging}{18}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Model Training and Evaluation}{20}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}Methodology for Research Question 3: Impact of the MITRE ATT\&CK Chain on the Logs and Performance}{23}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Aim of the Methodology}{23}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Evaluation Approach}{25}{subsection.2.5.2}%
+\contentsline {chapter}{\numberline {3}Results and Findings}{25}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Performance Evaluation}{26}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Cycle Time}{26}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Memory Usage Analysis}{29}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}CPU Usage Analysis}{29}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Board Temperature}{34}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}Exception Count Analysis}{34}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.6}Findings and Implications}{34}{subsection.3.1.6}%
+\contentsline {section}{\numberline {3.2}Machine Learning Models}{37}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Implications}{40}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3.3}Attack Technique Impact on Performance and Log Manifestation}{43}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}MITRE ATT\&CK Technique Manifestation}{43}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Performance Impact: CPU and Memory Usage}{44}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Implications}{46}{subsection.3.3.3}%
+\contentsline {chapter}{\numberline {4}Discussion}{47}{chapter.4}%
+\contentsline {chapter}{\nonumberline Bibliography}{49}{chapter*.40}%
+\contentsline {chapter}{\nonumberline List of Figures}{53}{chapter*.41}%
+\contentsline {chapter}{\nonumberline List of Tables}{54}{chapter*.42}%
+\contentsline {chapter}{\nonumberline List of source codes}{55}{chapter*.43}%
+\contentsline {chapter}{List of Abbreviations}{56}{section*.44}%
+\contentsline {chapter}{\numberline {A}Appendix A}{57}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Configuration}{57}{section.A.1}%
+\contentsline {subsection}{\numberline {A.1.1}Initial Configuration of the PLC}{57}{subsection.A.1.1}%
+\contentsline {subsection}{\numberline {A.1.2}Performance-Related Datalogger Configuration File}{60}{subsection.A.1.2}%
+\contentsline {section}{\numberline {A.2}Logging}{61}{section.A.2}%
+\contentsline {subsection}{\numberline {A.2.1}System Log Script}{61}{subsection.A.2.1}%
+\contentsline {subsection}{\numberline {A.2.2}Bash Access Monitor Script}{63}{subsection.A.2.2}%
+\contentsline {subsection}{\numberline {A.2.3}Bash Monitor Script}{64}{subsection.A.2.3}%
+\contentsline {subsection}{\numberline {A.2.4}Cron Monitor Script}{64}{subsection.A.2.4}%
+\contentsline {subsection}{\numberline {A.2.5}File Monitor Script}{65}{subsection.A.2.5}%
+\contentsline {subsection}{\numberline {A.2.6}Firewall Monitor Script}{66}{subsection.A.2.6}%
+\contentsline {subsection}{\numberline {A.2.7}C2 Monitor Script}{67}{subsection.A.2.7}%
+\contentsline {section}{\numberline {A.3}Event Feature Extraction}{67}{section.A.3}%
+\contentsline {section}{\numberline {A.4}ML Training Event Logs}{67}{section.A.4}%
+\contentsline {chapter}{\numberline {A}Appendix B}{67}{appendix.A}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
