@@ -1,0 +1,23 @@
+Add to the /etc/profile the next line :
+
+export PROMPT_COMMAND='echo "Command - $(whoami) ran: $(history 1)" | logger -t sh -p local0.info'
+
+and also run the next commands or automate it with a cronjob : 
+
+iptables -A INPUT -p tcp --dport 22 -m limit --limit 5/min -j LOG --log-prefix "SSH IN HIT: " --log-level 4
+
+iptables -A INPUT -p tcp --dport 80 -m limit --limit 5/min -j LOG --log-prefix "HTTP IN HIT: " --log-level 4
+
+iptables -A INPUT -p tcp --dport 443 -m limit --limit 5/min -j LOG --log-prefix "HTTPS IN HIT: " --log-level 4
+
+iptables -A INPUT -p tcp --dport 6705 -m limit --limit 5/min -j LOG --log-prefix "PHP APPL IN: " --log-level 4
+
+iptables -A OUTPUT -p tcp --dport 22 -m limit --limit 5/min -j LOG --log-prefix "SSH OUT HIT: " --log-level 4
+
+iptables -A OUTPUT -p tcp --dport 80 -m limit --limit 5/min -j LOG --log-prefix "HTTP OUT HIT: " --log-level 4
+
+iptables -A OUTPUT -p tcp --dport 443 -m limit --limit 5/min -j LOG --log-prefix "HTTPS OUT HIT: " --log-level 4
+
+iptables -A OUTPUT -p tcp --dport 6705 -m limit --limit 5/min -j LOG --log-prefix "PHP APPL OUT: " --log-level 4
+
+
