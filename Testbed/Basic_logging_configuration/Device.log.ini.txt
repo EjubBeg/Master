@@ -1,0 +1,8 @@
+log4cplus.rootLogger=ERROR, SysLogAppender1
+
+#SysLogAppender1:
+log4cplus.appender.SysLogAppender1=log4cplus::AsyncAppender
+log4cplus.appender.SysLogAppender1.Appender=log4cplus::SysLogAppender
+log4cplus.appender.SysLogAppender1.Appender.layout=log4cplus::PatternLayout
+log4cplus.appender.SysLogAppender1.Appender.layout.ConversionPattern=%c %p - %m%n
+log4cplus.appender.SysLogAppender1.Appender.Threshold=ERROR

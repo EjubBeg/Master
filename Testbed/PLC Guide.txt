@@ -1,0 +1,128 @@
+PLC1 CONFIGURATION GUIDE (Phoenix Contact AXC F 2152)
+
+NOTE:
+The steps for PLC2 are the same EXCEPT for the optware installation and sudoers file (Steps 6.2–9), which are NOT required for PLC2.
+
+-------------------------------------------------------------
+STEP 1: Reset the PLC
+-------------------------------------------------------------
+- Turn on the PLC.
+- Press and hold the reset button until the device resets to factory settings.
+
+-------------------------------------------------------------
+STEP 2: Connect to the WBM (Web-Based Management)
+-------------------------------------------------------------
+- Default PLC IP address: 192.168.1.10
+- Set your PC to the same subnet:
+
+    sudo ip addr add 192.168.1.40/24 dev eth0
+    sudo ip link set dev eth0 up
+
+- Test the connection with:
+
+    ping 192.168.1.10
+
+-------------------------------------------------------------
+STEP 3: Connect via SSH
+-------------------------------------------------------------
+- Connect to the PLC using SSH.
+- If you receive a warning about changed host identification, remove the old SSH key entry from the known_hosts file as shown in the warning message.
+
+-------------------------------------------------------------
+STEP 4: Enable Root User
+-------------------------------------------------------------
+- Set the root password:
+
+    sudo passwd root
+
+- Switch to the root user:
+
+    su
+
+-------------------------------------------------------------
+STEP 5: Set Date and Time
+-------------------------------------------------------------
+- Set system time:
+
+    date -s "YYYY-MM-DD HH:MM:SS"
+
+- Sync to hardware clock:
+
+    hwclock --systohc
+
+-------------------------------------------------------------
+STEP 6.1: Add New Users via WBM
+-------------------------------------------------------------
+- Access the PLC's web interface at 192.168.1.10.
+- Add new users if needed.
+
+-------------------------------------------------------------
+STEP 6.2: Install Optware, PHP, and Monit (PLC1 only)
+-------------------------------------------------------------
+- Install Optware:
+
+    wget -O - http://ipkg.nslu2-linux.org/optware-ng/bootstrap/buildroot-armeabihf-bootstrap.sh | sh
+
+- Update environment PATH:
+
+    export PATH=$PATH:/opt/bin/:/opt/sbin
+
+- Install PHP and Monit:
+
+    ipkg install php
+    ipkg install monit
+
+-------------------------------------------------------------
+STEP 7: Upload PHP Application
+-------------------------------------------------------------
+- Create application directory:
+
+    mkdir -p /opt/plcnext/my_master/php_app
+
+- Transfer files to the directory (via SCP or USB):
+
+    index.php
+    goodbye.html
+    readme.txt
+
+-------------------------------------------------------------
+STEP 8: Start PHP Application
+-------------------------------------------------------------
+- Start the built-in PHP server:
+
+    php -S 0.0.0.0:6705
+
+- Sample output:
+
+    PHP 5.6.33 Development Server started...
+    Listening on http://0.0.0.0:6705
+    Document root is /opt/plcnext/my_master/php_app
+
+-------------------------------------------------------------
+STEP 9: Enable Root Access for Specific File
+-------------------------------------------------------------
+- Navigate to sudoers directory:
+
+    cd /etc/sudoers.d
+
+- Create a new sudoers file:
+
+    cat > dev-sudoers
+
+- Add the following line:
+
+    admin ALL=(root) NOPASSWD: /usr/bin/vim private_file.txt
+
+- Test it:
+
+    cd /opt/plcnext/my_master
+    sudo vim private_file.txt
+
+-------------------------------------------------------------
+STEP 10: Upload the PLCnext Project
+-------------------------------------------------------------
+- Open PLCnext Engineer on your PC.
+- Upload and activate the PLC application project to the device.
+
+-------------------------------------------------------------
+END OF PLC1 CONFIGURATION GUIDE

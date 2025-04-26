@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Goodbye</title>
+</head>
+<body>
+    <h2>Goodbye! You have successfully disconnected from the server.</h2>
+</body>
+</html>

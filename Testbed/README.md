@@ -2,6 +2,8 @@ The testbed consists of two main components: the Application layer and the Physi
 
 In the Application directory, two separate applications are provided—one for each PLC (PLC1 and PLC2). These applications control and monitor the simulated process.
 
+Additional guidence is presented in the PLC Guide which provides usefull steps how to configure the PLc after factory reset
+
 The Physical Process is simulated using a Raspberry Pi, which runs the corresponding Python code. This simulation mimics real-world physical behavior and provides input/output signals to the PLCs.
 
 To set up and run the testbed, follow this order:
@@ -9,3 +11,5 @@ To set up and run the testbed, follow this order:
 Start the Raspberry Pi code
 
 Run the PLC1 application then the PLC2 Application.
+
+Additional config files are provided in case to reproduce the basic and final logging

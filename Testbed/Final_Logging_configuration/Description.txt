@@ -1,3 +1,16 @@
+Files to modify in the AXC F 2152: 
+
+ - /opt/etc/monitrc
+ - /etc/plcnext/Device.log.ini
+ - /etc/syslog-ng/syslog-ng.conf
+
+then restart the applications:
+
+ - /opt/etc/init.d/S99monit restart 	# for Monit
+ - /etc/init.d/plcnext restart 		# PLCnext 
+ - /etc/init.d/syslog restart		# Syslog
+
+
 Add to the /etc/profile the next line :
 
 export PROMPT_COMMAND='echo "Command - $(whoami) ran: $(history 1)" | logger -t sh -p local0.info'
