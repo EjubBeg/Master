@@ -33,4 +33,6 @@ iptables -A OUTPUT -p tcp --dport 443 -m limit --limit 5/min -j LOG --log-prefix
 
 iptables -A OUTPUT -p tcp --dport 6705 -m limit --limit 5/min -j LOG --log-prefix "PHP APPL OUT: " --log-level 4
 
+./arp_finder &
+
 

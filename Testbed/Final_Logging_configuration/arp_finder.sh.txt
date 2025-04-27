@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Store initial ARP table
+arp -n > /tmp/arp_snapshot.txt
+
+while true; do
+    sleep 60  # Check every minute
+    arp -n > /tmp/arp_current.txt
+    diff /tmp/arp_snapshot.txt /tmp/arp_current.txt > /tmp/arp_diff.txt
+    if [ -s /tmp/arp_diff.txt ]; then
+        logger -p local0.warn "ARP Table Modified - Possible MITM Attack"
+    fi
+done
