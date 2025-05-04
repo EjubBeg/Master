@@ -1,8 +1,8 @@
 # Master
-This Repository is used to store all important scripts, files or datasets for my Masterwork. It should exceed the understanding of the practical work from the Masterthesis.
+This Repository is used to store all important scripts, files, or logs for my master's. 
 
-Configuration -> Has all configuration related commands 
+Dataset -> Contains the Dataset as the Labeling and ML evaluation code 
 
-Logging -> All commands and script used for Logging
+Performance -> Contains the performance measurements and the code to show the results
 
-Testbed -> Contains the Tetsbed Applications
+Testbed -> Contains the Testbed Applications with the logging methods
